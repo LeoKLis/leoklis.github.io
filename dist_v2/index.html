@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        html, body {
+            margin: 0;
+            height: 100%;
+        }
+        canvas {
+            display: block;
+            width: 800px;
+            height: 800px;
+        }
+        .cont {
+            position: absolute;
+            color: black;
+            left: 5px;
+            top: 200px;
+            display: flex;
+            flex-direction: column;
+        }
+        .list select{
+            float: right;
+        }
+        #inputs {
+            position: absolute;
+            top: 15px;
+            left: 15px;
+            color: white;
+        }
+    </style>
+</head>
+<body>
+    <div id="inputs">
+        <input type="radio" name="obj" id="teapot" checked> Cajnik <br>
+        <input type="radio" name="obj" id="cat"> Macka <br>
+        X <input type="range" name="cordX" id="cordX" min="-50" max="50"><br>
+        Y <input type="range" name="cordX" id="cordY" min="-100" max="0"><br>
+        Z <input type="range" name="cordX" id="cordZ" min="-300" max="0">
+    </div>
+    <canvas id="canvas" width="800" height="800"></canvas>
+    <script src="main.bundle.js"></script>
+</body>
+</html>
