@@ -12,6 +12,7 @@
             color: rgb(236, 236, 236);
             background-color: rgb(59, 71, 86);
         }
+
         table {
             border-collapse: collapse;
         }
@@ -20,9 +21,11 @@
         td {
             border: 1px solid white;
         }
+
         td:nth-child(2) {
             width: 100%;
         }
+
         a {
             text-decoration: none;
             color: rgb(222, 146, 146);
@@ -34,34 +37,34 @@
     <h1>WebGPU - Leonardo Klisanic</h1>
     <table>
         <tr>
-            <th>Link </th>
+            <th>Demo</th>
             <th>Opis</th>
         </tr>
         <tr>
-            <td><a href="dist/index.html"><button>WebGPU v0.01</button></a></td>
+            <td><a href="dist_v5/index.html"><button>WebGPU v0.1</button></a></td>
             <td>
                 <ul>
-                    <li>Stvara se 15 trokuta</li>
-                    <li>Trokuti se po nasumicno pomicu</li>
-                    <li>Svaki vrh trokuta ima odredenu nasumicnu boju (ne skroz jer sam postavio ogranicenja). Kada se odreduje boja pojedinog piksela u trokutu, uzima se interpolirana vrijednost izmedu boja svih vrhova</li>
-                    <li>Ima puno stvari o kojima bi mogao pricati, ali su vezane samo za ucenje...</li>
-                    <hr>
-                    <li>Za ucenje koristim stranicu <a href="https://webgpufundamentals.org/" target="_blank"><u>WebGPU Fundamentals</u></a> na kojoj su odlicno opisani osnovni koncepti</li>
+                    <h4><b><u style="color: red">NOVO</u></b></h4>
+                    <li>U sceni se nalazi kugla (Zemlja) na koju djeluju sile i pod.</li>
+                    <li>Implementirane sile: gravitacija, trenje, i okretna sila koja nija dovrsena.</li>
+                    <li>Implementirana je i kolizija. Kolizija radi na bilo kako orijentiranim povrsinama.</li>
+                    <li>Linije iz kugle su vektori koji prikazuju orijentaciju.</li>
+                    <li>Kugla se za sad moze samo okretati u mjestu. Okrece se pomocu QWEASD tipki.</li>
                     <hr>
                     <li>Primjer ne radi na Firefoxu (radi na Chromeu, Edgeu i canary/nightly verziji Firefoxa)</li>
                 </ul>
             </td>
         </tr>
         <tr>
-            <td><a href="dist_v2/index.html"><button>WebGPU v0.02</button></a></td>
+            <td><a href="dist_v4/index.html"><button>WebGPU v0.04</button></a></td>
             <td>
                 <ul>
-                    <li>Ucita se .OBJ file</li>
-                    <li>Moze se izabrati izmedu macke ili cajanke da se renderiraju</li>
-                    <li>Sa sliderima se moze pomicati po sceni</li>
-                    <li>Na modelu se prikazuju samo vertexi (vrhovi) jer nisam jos radio sa svjetlom da bi se mogli prikazivati fragmenti (strane) sa sjenama.</li>
+                    <li>Skombinirao sam v0.02 i v0.03 u jedno (sad nije hardkodiran kod) i dodano je svijetlo.</li>
+                    <li>U sceni su dodana 2 svjetla, jedno svijetli sprijeda, a drugo se vrti. Jedna kocka se vrti, a
+                        druga kocka i cajnik su staticni.</li>
                     <hr>
-                    <li>Za ucenje jos uvijek koristim stranicu <a href="https://webgpufundamentals.org/" target="_blank"><u>WebGPU Fundamentals</u></a>, ali gledam i ostale stvati sto nadjem, no primjere izmisljam sam i testiram.</li>
+                    <li>Za ucenje sam koristio <a href="https://webgpu.github.io/webgpu-samples/">WebGPU Samples</a>,
+                        YouTube i <a href="https://www.w3.org/TR/webgpu/">sluzbenu specifikaciju</a></li>
                     <hr>
                     <li>Primjer ne radi na Firefoxu (radi na Chromeu, Edgeu i canary/nightly verziji Firefoxa)</li>
                 </ul>
@@ -77,20 +80,44 @@
                     <li>Pomocu strelica se rotira kamera</li>
                     <li>Kada misem kliknemo na scenu, moze se pomicanjem misa rotirati kameru</li>
                     <hr>
-                    <li>Za ucenje sam koristio <a href="https://webgpu.github.io/webgpu-samples/">WebGPU Samples</a> i YouTube</li>
+                    <li>Za ucenje sam koristio <a href="https://webgpu.github.io/webgpu-samples/">WebGPU Samples</a> i
+                        YouTube</li>
                     <hr>
                     <li>Primjer ne radi na Firefoxu (radi na Chromeu, Edgeu i canary/nightly verziji Firefoxa)</li>
                 </ul>
             </td>
         </tr>
         <tr>
-            <td><a href="dist_v4/index.html"><button>WebGPU v0.04</button></a></td>
+            <td><a href="dist_v2/index.html"><button>WebGPU v0.02</button></a></td>
             <td>
                 <ul>
-                    <li>Skombinirao sam v0.02 i v0.03 u jedno (sad nije hardkodiran kod) i dodano je svijetlo.</li>
-                    <li>U sceni su dodana 2 svjetla, jedno svijetli sprijeda, a drugo se vrti. Jedna kocka se vrti, a druga kocka i cajnik su staticni.</li>
+                    <li>Ucita se .OBJ file</li>
+                    <li>Moze se izabrati izmedu macke ili cajanke da se renderiraju</li>
+                    <li>Sa sliderima se moze pomicati po sceni</li>
+                    <li>Na modelu se prikazuju samo vertexi (vrhovi) jer nisam jos radio sa svjetlom da bi se mogli
+                        prikazivati fragmenti (strane) sa sjenama.</li>
                     <hr>
-                    <li>Za ucenje sam koristio <a href="https://webgpu.github.io/webgpu-samples/">WebGPU Samples</a>, YouTube i <a href="https://www.w3.org/TR/webgpu/">sluzbenu specifikaciju</a></li>
+                    <li>Za ucenje jos uvijek koristim stranicu <a href="https://webgpufundamentals.org/"
+                            target="_blank"><u>WebGPU Fundamentals</u></a>, ali gledam i ostale stvati sto nadjem, no
+                        primjere izmisljam sam i testiram.</li>
+                    <hr>
+                    <li>Primjer ne radi na Firefoxu (radi na Chromeu, Edgeu i canary/nightly verziji Firefoxa)</li>
+                </ul>
+            </td>
+        </tr>
+        <tr>
+            <td><a href="dist_v1/index.html"><button>WebGPU v0.01</button></a></td>
+            <td>
+                <ul>
+                    <li>Stvara se 15 trokuta</li>
+                    <li>Trokuti se po nasumicno pomicu</li>
+                    <li>Svaki vrh trokuta ima odredenu nasumicnu boju (ne skroz jer sam postavio ogranicenja). Kada se
+                        odreduje boja pojedinog piksela u trokutu, uzima se interpolirana vrijednost izmedu boja svih
+                        vrhova</li>
+                    <li>Ima puno stvari o kojima bi mogao pricati, ali su vezane samo za ucenje...</li>
+                    <hr>
+                    <li>Za ucenje koristim stranicu <a href="https://webgpufundamentals.org/" target="_blank"><u>WebGPU
+                                Fundamentals</u></a> na kojoj su odlicno opisani osnovni koncepti</li>
                     <hr>
                     <li>Primjer ne radi na Firefoxu (radi na Chromeu, Edgeu i canary/nightly verziji Firefoxa)</li>
                 </ul>
