@@ -1,0 +1,98 @@
+html, body {
+    margin: 0;
+    height: 100%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif 
+}
+
+#container {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+
+#canvas {
+    width: 100%;
+    height: 100%;
+}
+
+#controls {
+    transition-duration: 0.4s;
+    font-size: larger;
+    font-weight: lighter;
+    padding: 15px;
+    background-color: #f9f9f9;
+    color: black;
+    position: absolute;
+    border-radius: 5px;
+    right: 30px;
+    transform: translateY(-91%);
+    top: 15px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: self-start;
+}
+
+#controls:hover {
+    transform: translateY(0);
+}
+
+#info {
+    margin-bottom: 3px;
+    margin-top: 3px;
+}
+
+#sliders {
+    transition-duration: 0.4s;
+    font-size: larger;
+    font-weight: lighter;
+    padding: 15px;
+    background-color: #f9f9f9;
+    color: black;
+    position: absolute;
+    border-radius: 5px;
+    left: 15px;
+    transform: translateY(-94%);
+    top: 15px;
+    width: 250px;
+
+    display: flex;
+    flex-direction: column;
+    align-items: self-start;
+}
+
+#sliders:not(pinned):hover {
+    transform: translateY(0);
+}
+
+#sliders.pinned {
+    transform: translateY(0);
+}
+
+input, #lbl{
+    margin-bottom: 7px;
+    margin-top: 7px;
+}
+
+#el {
+    justify-self: right;
+    font-size: medium;
+    margin-bottom: 7px;
+    margin-top: 7px;
+}
+
+span {
+    font-size: medium;
+}
+
+.object {
+    background-color: whitesmoke;
+    margin: 20px;
+    padding: 8px 12px 8px 12px;
+    border: 1px solid grey;
+}
+
+.name {
+    font-size: large;
+}
