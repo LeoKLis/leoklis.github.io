@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Vizualizacija grafova/stabla</title>
+    <style>
+        body {
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-size: x-large;
+            padding: 0 20% 0 20%;
+        }
+
+        .image {
+            display: flex; 
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .image > img {
+            width: 500px;
+            border: 1px solid gray;
+        }
+    </style>
+</head>
+<body>
+    <h1>Vizualizacija grafova i drva u pythonu</h1>
+
+    <div>
+        <h2>Cilj</h2>
+        <hr>
+        <p>
+            Napraviti <b>framework koji ce olaksati vizualizaciju grafova</b> (tipa nesto ovakvog). Ideja mi je da posto su grafovi vise manje jednako implementirani (objekt Node i lista pokazivaca na druge Node objekte), da se moze unificirati to u <b>VisualNode</b> koji automatski prikazuje graf.
+            <br>
+            Ugl mislim da je korisno kao projekt jer je lakse nauciti pola gradiva NASP-a. NASP je smece od predmeta jer se rade grafovi i drva, a objektivno je bolje uciti grafove/drva kada vidis algoritam vizualno sto radi.
+        </p>
+        <div class="image">
+            <img src="https://i.sstatic.net/M9uL0.jpg" alt="ideja vizualno cca">
+            <div><i>Generalno ovakvo nesto zamisljam</i></div>
+        </div>
+    </div>
+
+    <div>
+        <h2>Funkcionalni zahtjevi</h2>
+        <hr>
+        <p>
+            <ul>
+                <li>Korisnik samostalno pise kod/algoritam, ali koristi implementaciju vrha grafa <b>VisualNode</b> ili tako nesto.</li>
+                <li>Svaki taj <b>VisualNode</b> se prikazuje vizualno. </li>
+                <li>Povezivanjem cvorova <b>VisualNode</b> u pythonu (kroz kod referenciranjem) se vizualno povezuju cvorovi s bridovima.</li>
+                <li>Idjea mi je koristiti Pygame ili Web Preglednik (na localhostu canvas) ili oboje.</li>
+                <li>Kad korisnik promijeni kod i spremi datoteku, vizualizacija se resetira (live reload).</li>
+                <li>Implementirati step by step rad algoritma kojeg korisnik napise u kodu kako bi vidio jel radi (jako korisno za edu).</li>
+            </ul>
+        </p>
+    </div>
+
+    <div>
+        <h2>Nefunkcionalni zahtjevi</h2>
+        <hr>
+        <p>
+            <ul>
+                <li>Svi su funkcionalni i ekstremno bitni.</li>
+                <li>Osim naravno dizajna koji treba biti <b>ssslicck</b> i intuitivan (uz mogucnost promjene boje + ceg se sjetim jos).</li>
+                <li>I animacije trebaju postojati za <b>sliccck</b> debugging experience (ovakve animacije ocekujem za tranzicije u deguggingu).</li>
+            </ul>
+        </p>
+        <div class="image">
+            <img src="https://cdn.dribbble.com/userupload/39937631/file/original-c461d055746b413c3782f77c2abd6269.gif" alt="sliccck animacija od google">
+            <div><i>Ovakve sliccck animacije</i></div>
+        </div>
+    </div>
+</body>
+</html>
