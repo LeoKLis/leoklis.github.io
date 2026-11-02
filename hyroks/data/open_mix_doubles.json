@@ -1,0 +1,3108 @@
+{
+  "Men": [
+    {
+      "team_name": "DSR FeelGood",
+      "bib": "BIB 87",
+      "temem": {
+        "member_one": "Lovro Tomulic",
+        "member_two": "Dominik Siroglavic"
+      },
+      "results": {
+        "run1": "0:02:03",
+        "lunges": "0:01:57",
+        "run2": "0:02:04",
+        "bbj": "0:01:58",
+        "run3": "0:02:17",
+        "ski": "0:04:14",
+        "run4": "0:02:21",
+        "sled": "0:01:23",
+        "run5": "0:02:33",
+        "row": "0:04:47",
+        "run6": "0:02:19",
+        "farmer": "0:01:42",
+        "run7": "0:02:26",
+        "wallball": "0:03:44",
+        "finish": "0:35:40"
+      }
+    },
+    {
+      "team_name": "Mladi i nadobudni",
+      "bib": "BIB 130",
+      "temem": {
+        "member_one": "Bojan Kuljic",
+        "member_two": "Mario Šoštaric"
+      },
+      "results": {
+        "run1": "0:02:16",
+        "lunges": "0:02:42",
+        "run2": "0:02:08",
+        "bbj": "0:03:08",
+        "run3": "0:02:12",
+        "ski": "0:04:36",
+        "run4": "0:02:18",
+        "sled": "0:01:46",
+        "run5": "0:02:19",
+        "row": "0:05:09",
+        "run6": "0:02:18",
+        "farmer": "0:01:54",
+        "run7": "0:02:14",
+        "wallball": "0:04:12",
+        "finish": "0:39:05"
+      }
+    },
+    {
+      "team_name": "Reset Gym",
+      "bib": "BIB 149",
+      "temem": {
+        "member_one": "Nenad Sikora",
+        "member_two": "Ivan Dragija"
+      },
+      "results": {
+        "run1": "0:02:22",
+        "lunges": "0:02:01",
+        "run2": "0:02:18",
+        "bbj": "0:02:18",
+        "run3": "0:02:38",
+        "ski": "0:04:26",
+        "run4": "0:02:52",
+        "sled": "0:01:46",
+        "run5": "0:03:04",
+        "row": "0:05:05",
+        "run6": "0:03:02",
+        "farmer": "0:01:55",
+        "run7": "0:02:48",
+        "wallball": "0:03:57",
+        "finish": "0:40:23"
+      }
+    },
+    {
+      "team_name": "Vellfit team 1",
+      "bib": "BIB 179",
+      "temem": {
+        "member_one": "Bruno Grošic",
+        "member_two": "Filip Vusic"
+      },
+      "results": {
+        "run1": "0:02:35",
+        "lunges": "0:01:56",
+        "run2": "0:02:31",
+        "bbj": "0:02:05",
+        "run3": "0:02:45",
+        "ski": "0:04:27",
+        "run4": "0:02:35",
+        "sled": "0:02:02",
+        "run5": "0:02:59",
+        "row": "0:05:34",
+        "run6": "0:02:55",
+        "farmer": "0:02:14",
+        "run7": "0:02:40",
+        "wallball": "0:03:46",
+        "finish": "0:40:55"
+      }
+    },
+    {
+      "team_name": "Kmeti",
+      "bib": "BIB 106",
+      "temem": {
+        "member_one": "Marko Sirovec",
+        "member_two": "Filip Durkan"
+      },
+      "results": {
+        "run1": "0:02:38",
+        "lunges": "0:01:58",
+        "run2": "0:02:39",
+        "bbj": "0:02:37",
+        "run3": "0:02:46",
+        "ski": "0:04:23",
+        "run4": "0:02:43",
+        "sled": "0:01:45",
+        "run5": "0:02:52",
+        "row": "0:05:03",
+        "run6": "0:02:51",
+        "farmer": "0:02:26",
+        "run7": "0:02:29",
+        "wallball": "0:04:00",
+        "finish": "0:41:04"
+      }
+    },
+    {
+      "team_name": "Prebrzi & Prejaki",
+      "bib": "BIB 144",
+      "temem": {
+        "member_one": "Davor Nezmahen",
+        "member_two": "Tony Andrews"
+      },
+      "results": {
+        "run1": "0:02:24",
+        "lunges": "0:02:35",
+        "run2": "0:02:29",
+        "bbj": "0:02:33",
+        "run3": "0:03:03",
+        "ski": "0:04:32",
+        "run4": "0:03:18",
+        "sled": "0:01:46",
+        "run5": "0:03:16",
+        "row": "0:04:54",
+        "run6": "0:03:18",
+        "farmer": "0:02:08",
+        "run7": "0:03:01",
+        "wallball": "0:03:50",
+        "finish": "0:43:01"
+      }
+    },
+    {
+      "team_name": "Vellfit team 2",
+      "bib": "BIB 180",
+      "temem": {
+        "member_one": "Denis Kontak",
+        "member_two": "Matija Markušic"
+      },
+      "results": {
+        "run1": "0:02:50",
+        "lunges": "0:02:00",
+        "run2": "0:02:41",
+        "bbj": "0:02:31",
+        "run3": "0:02:52",
+        "ski": "0:04:26",
+        "run4": "0:03:01",
+        "sled": "0:01:59",
+        "run5": "0:03:18",
+        "row": "0:05:30",
+        "run6": "0:03:20",
+        "farmer": "0:02:07",
+        "run7": "0:02:49",
+        "wallball": "0:04:16",
+        "finish": "0:43:32"
+      }
+    },
+    {
+      "team_name": "KAS SANTA DOMENICA team 3",
+      "bib": "BIB 102",
+      "temem": {
+        "member_one": "Marko Brodar",
+        "member_two": "Ivan Katušic"
+      },
+      "results": {
+        "run1": "0:02:40",
+        "lunges": "0:02:07",
+        "run2": "0:02:36",
+        "bbj": "0:02:51",
+        "run3": "0:02:58",
+        "ski": "0:04:29",
+        "run4": "0:03:02",
+        "sled": "0:02:11",
+        "run5": "0:03:15",
+        "row": "0:05:12",
+        "run6": "0:03:05",
+        "farmer": "0:02:29",
+        "run7": "0:02:57",
+        "wallball": "0:04:09",
+        "finish": "0:43:54"
+      }
+    },
+    {
+      "team_name": "Došli po majicu",
+      "bib": "BIB 86",
+      "temem": {
+        "member_one": "Filip Noršic",
+        "member_two": "Zeljko Masic"
+      },
+      "results": {
+        "run1": "0:02:42",
+        "lunges": "0:02:19",
+        "run2": "0:02:27",
+        "bbj": "0:02:24",
+        "run3": "0:03:03",
+        "ski": "0:04:31",
+        "run4": "0:03:05",
+        "sled": "0:02:11",
+        "run5": "0:03:18",
+        "row": "0:05:16",
+        "run6": "0:03:39",
+        "farmer": "0:02:24",
+        "run7": "0:03:06",
+        "wallball": "0:03:45",
+        "finish": "0:44:03"
+      }
+    },
+    {
+      "team_name": "Tomik gym",
+      "bib": "BIB 171",
+      "temem": {
+        "member_one": "Tomislav Knez",
+        "member_two": "Igor Kovacevic"
+      },
+      "results": {
+        "run1": "0:02:28",
+        "lunges": "0:01:58",
+        "run2": "0:02:34",
+        "bbj": "0:02:13",
+        "run3": "0:03:17",
+        "ski": "0:04:17",
+        "run4": "0:03:22",
+        "sled": "0:01:45",
+        "run5": "0:03:42",
+        "row": "0:04:54",
+        "run6": "0:03:52",
+        "farmer": "0:02:14",
+        "run7": "0:03:43",
+        "wallball": "0:03:53",
+        "finish": "0:44:05"
+      }
+    },
+    {
+      "team_name": "Viper Squad",
+      "bib": "BIB 182",
+      "temem": {
+        "member_one": "Antonijo Paradzik",
+        "member_two": "Luka Trpkovic"
+      },
+      "results": {
+        "run1": "0:02:54",
+        "lunges": "0:02:38",
+        "run2": "0:02:41",
+        "bbj": "0:02:41",
+        "run3": "0:02:56",
+        "ski": "0:04:39",
+        "run4": "0:02:53",
+        "sled": "0:01:46",
+        "run5": "0:03:20",
+        "row": "0:05:48",
+        "run6": "0:03:02",
+        "farmer": "0:02:00",
+        "run7": "0:02:57",
+        "wallball": "0:03:58",
+        "finish": "0:44:07"
+      }
+    },
+    {
+      "team_name": "Mokri i Jaki",
+      "bib": "BIB 133",
+      "temem": {
+        "member_one": "Viktor Cerinski",
+        "member_two": "Filip Košcevic"
+      },
+      "results": {
+        "run1": "0:02:48",
+        "lunges": "0:02:11",
+        "run2": "0:02:52",
+        "bbj": "0:02:23",
+        "run3": "0:03:30",
+        "ski": "0:04:10",
+        "run4": "0:03:41",
+        "sled": "0:01:50",
+        "run5": "0:03:41",
+        "row": "0:05:00",
+        "run6": "0:03:51",
+        "farmer": "0:02:28",
+        "run7": "0:03:31",
+        "wallball": "0:03:39",
+        "finish": "0:45:28"
+      }
+    },
+    {
+      "team_name": "Badelovi manekeni",
+      "bib": "BIB 71",
+      "temem": {
+        "member_one": "Petar Runtas",
+        "member_two": "Ivan Ahlin"
+      },
+      "results": {
+        "run1": "0:02:41",
+        "lunges": "0:02:19",
+        "run2": "0:02:45",
+        "bbj": "0:02:39",
+        "run3": "0:03:11",
+        "ski": "0:04:22",
+        "run4": "0:03:18",
+        "sled": "0:01:58",
+        "run5": "0:03:33",
+        "row": "0:05:41",
+        "run6": "0:03:04",
+        "farmer": "0:02:36",
+        "run7": "0:03:11",
+        "wallball": "0:04:23",
+        "finish": "0:45:32"
+      }
+    },
+    {
+      "team_name": "Reset 5",
+      "bib": "BIB 148",
+      "temem": {
+        "member_one": "Luka Kralik",
+        "member_two": "Matija Videc"
+      },
+      "results": {
+        "run1": "0:02:27",
+        "lunges": "0:02:04",
+        "run2": "0:02:26",
+        "bbj": "0:02:25",
+        "run3": "0:03:01",
+        "ski": "0:04:23",
+        "run4": "0:03:32",
+        "sled": "0:01:56",
+        "run5": "0:03:46",
+        "row": "0:05:52",
+        "run6": "0:04:13",
+        "farmer": "0:02:14",
+        "run7": "0:03:20",
+        "wallball": "0:04:17",
+        "finish": "0:45:47"
+      }
+    },
+    {
+      "team_name": "Jurajeva mama",
+      "bib": "BIB 99",
+      "temem": {
+        "member_one": "Mario Herceg",
+        "member_two": "Marko Liplin"
+      },
+      "results": {
+        "run1": "0:02:57",
+        "lunges": "0:02:16",
+        "run2": "0:02:48",
+        "bbj": "0:02:44",
+        "run3": "0:03:23",
+        "ski": "0:04:29",
+        "run4": "0:03:21",
+        "sled": "0:01:51",
+        "run5": "0:03:30",
+        "row": "0:05:08",
+        "run6": "0:03:16",
+        "farmer": "0:02:49",
+        "run7": "0:03:05",
+        "wallball": "0:04:45",
+        "finish": "0:46:16"
+      }
+    },
+    {
+      "team_name": "Miha",
+      "bib": "BIB 128",
+      "temem": {
+        "member_one": "Dino Mihaljevic",
+        "member_two": "Hrvoje Mihaljevic"
+      },
+      "results": {
+        "run1": "0:02:51",
+        "lunges": "0:02:41",
+        "run2": "0:02:47",
+        "bbj": "0:03:07",
+        "run3": "0:03:05",
+        "ski": "0:04:55",
+        "run4": "0:03:22",
+        "sled": "0:01:47",
+        "run5": "0:03:45",
+        "row": "0:05:40",
+        "run6": "0:03:28",
+        "farmer": "0:02:07",
+        "run7": "0:03:09",
+        "wallball": "0:04:02",
+        "finish": "0:46:39"
+      }
+    },
+    {
+      "team_name": "Rastavljeni-Sastavljeni",
+      "bib": "BIB 146",
+      "temem": {
+        "member_one": "Siniša Plecko",
+        "member_two": "Robert  Piljek"
+      },
+      "results": {
+        "run1": "0:02:38",
+        "lunges": "0:02:27",
+        "run2": "0:02:45",
+        "bbj": "0:02:55",
+        "run3": "0:03:15",
+        "ski": "0:04:39",
+        "run4": "0:03:21",
+        "sled": "0:01:51",
+        "run5": "0:03:01",
+        "row": "0:06:13",
+        "run6": "0:03:17",
+        "farmer": "0:02:53",
+        "run7": "0:02:54",
+        "wallball": "0:05:04",
+        "finish": "0:47:05"
+      }
+    },
+    {
+      "team_name": "Jura se fura",
+      "bib": "BIB 100",
+      "temem": {
+        "member_one": "Vito Varga",
+        "member_two": "Nikola Juric"
+      },
+      "results": {
+        "run1": "0:02:30",
+        "lunges": "0:02:04",
+        "run2": "0:02:35",
+        "bbj": "0:02:34",
+        "run3": "0:03:21",
+        "ski": "0:04:54",
+        "run4": "0:03:39",
+        "sled": "0:02:17",
+        "run5": "0:04:36",
+        "row": "0:05:06",
+        "run6": "0:04:04",
+        "farmer": "0:02:32",
+        "run7": "0:03:43",
+        "wallball": "0:03:59",
+        "finish": "0:47:47"
+      }
+    },
+    {
+      "team_name": "CVIGO",
+      "bib": "BIB 82",
+      "temem": {
+        "member_one": "Antonio Margarin",
+        "member_two": "Tomislav Cvetkovic"
+      },
+      "results": {
+        "run1": "0:03:10",
+        "lunges": "0:02:12",
+        "run2": "0:03:16",
+        "bbj": "0:02:34",
+        "run3": "0:03:25",
+        "ski": "0:04:32",
+        "run4": "0:03:16",
+        "sled": "0:01:52",
+        "run5": "0:03:52",
+        "row": "0:05:36",
+        "run6": "0:03:45",
+        "farmer": "0:02:18",
+        "run7": "0:03:48",
+        "wallball": "0:04:37",
+        "finish": "0:48:05"
+      }
+    },
+    {
+      "team_name": "Rebarca",
+      "bib": "BIB 147",
+      "temem": {
+        "member_one": "Tomislav Zalovic",
+        "member_two": "Ian Kruezi"
+      },
+      "results": {
+        "run1": "0:02:20",
+        "lunges": "0:02:49",
+        "run2": "0:02:48",
+        "bbj": "0:03:01",
+        "run3": "0:03:40",
+        "ski": "0:04:22",
+        "run4": "0:03:44",
+        "sled": "0:01:57",
+        "run5": "0:03:40",
+        "row": "0:05:26",
+        "run6": "0:03:41",
+        "farmer": "0:02:29",
+        "run7": "0:03:52",
+        "wallball": "0:04:27",
+        "finish": "0:48:09"
+      }
+    },
+    {
+      "team_name": "HPD172",
+      "bib": "BIB 91",
+      "temem": {
+        "member_one": "Sven Oberman",
+        "member_two": "Matej Prelcec"
+      },
+      "results": {
+        "run1": "0:02:49",
+        "lunges": "0:02:41",
+        "run2": "0:02:50",
+        "bbj": "0:02:37",
+        "run3": "0:03:19",
+        "ski": "0:04:51",
+        "run4": "0:03:30",
+        "sled": "0:01:53",
+        "run5": "0:03:46",
+        "row": "0:05:47",
+        "run6": "0:03:42",
+        "farmer": "0:02:43",
+        "run7": "0:03:29",
+        "wallball": "0:04:51",
+        "finish": "0:48:40"
+      }
+    },
+    {
+      "team_name": "Superbia cf",
+      "bib": "BIB 163",
+      "temem": {
+        "member_one": "Valentin Krizanovic",
+        "member_two": "Matej Dudic"
+      },
+      "results": {
+        "run1": "0:02:55",
+        "lunges": "0:02:32",
+        "run2": "0:03:02",
+        "bbj": "0:02:59",
+        "run3": "0:03:15",
+        "ski": "0:04:43",
+        "run4": "0:03:36",
+        "sled": "0:02:19",
+        "run5": "0:03:44",
+        "row": "0:06:27",
+        "run6": "0:03:24",
+        "farmer": "0:02:47",
+        "run7": "0:03:24",
+        "wallball": "0:04:52",
+        "finish": "0:49:53"
+      }
+    },
+    {
+      "team_name": "KUD Benc",
+      "bib": "BIB 111",
+      "temem": {
+        "member_one": "Zvonko Loncar",
+        "member_two": "Marko Kolenko"
+      },
+      "results": {
+        "run1": "0:02:57",
+        "lunges": "0:02:39",
+        "run2": "0:03:11",
+        "bbj": "0:03:02",
+        "run3": "0:03:19",
+        "ski": "0:04:43",
+        "run4": "0:03:30",
+        "sled": "0:02:26",
+        "run5": "0:03:39",
+        "row": "0:05:57",
+        "run6": "0:03:44",
+        "farmer": "0:03:14",
+        "run7": "0:03:26",
+        "wallball": "0:04:25",
+        "finish": "0:50:04"
+      }
+    },
+    {
+      "team_name": "MASTERS CUCNI",
+      "bib": "BIB 126",
+      "temem": {
+        "member_one": "Bruno Vnucec",
+        "member_two": "Marko Dukic"
+      },
+      "results": {
+        "run1": "0:02:58",
+        "lunges": "0:02:40",
+        "run2": "0:03:25",
+        "bbj": "0:02:36",
+        "run3": "0:03:31",
+        "ski": "0:04:44",
+        "run4": "0:04:04",
+        "sled": "0:02:09",
+        "run5": "0:03:54",
+        "row": "0:06:10",
+        "run6": "0:03:46",
+        "farmer": "0:02:26",
+        "run7": "0:03:36",
+        "wallball": "0:04:34",
+        "finish": "0:50:25"
+      }
+    },
+    {
+      "team_name": "Baš smo si MiD",
+      "bib": "BIB 72",
+      "temem": {
+        "member_one": "Marin Jovic",
+        "member_two": "Dino Jovic"
+      },
+      "results": {
+        "run1": "0:02:56",
+        "lunges": "0:03:35",
+        "run2": "0:02:53",
+        "bbj": "0:03:01",
+        "run3": "0:03:03",
+        "ski": "0:05:26",
+        "run4": "0:03:03",
+        "sled": "0:02:48",
+        "run5": "0:03:45",
+        "row": "0:05:11",
+        "run6": "0:03:38",
+        "farmer": "0:03:01",
+        "run7": "0:03:38",
+        "wallball": "0:04:55",
+        "finish": "0:50:47"
+      }
+    },
+    {
+      "team_name": "Ivan i Filip",
+      "bib": "BIB 95",
+      "temem": {
+        "member_one": "Ivan  Brekalo",
+        "member_two": "Filip Popovic"
+      },
+      "results": {
+        "run1": "0:02:50",
+        "lunges": "0:02:24",
+        "run2": "0:02:55",
+        "bbj": "0:03:01",
+        "run3": "0:03:46",
+        "ski": "0:04:52",
+        "run4": "0:03:42",
+        "sled": "0:02:20",
+        "run5": "0:04:10",
+        "row": "0:06:25",
+        "run6": "0:04:01",
+        "farmer": "0:03:04",
+        "run7": "0:03:34",
+        "wallball": "0:04:12",
+        "finish": "0:51:10"
+      }
+    },
+    {
+      "team_name": "Tara i Iva",
+      "bib": "BIB 166",
+      "temem": {
+        "member_one": "Petar Marijanovic",
+        "member_two": "Robert Baricevic-Petrus"
+      },
+      "results": {
+        "run1": "0:02:57",
+        "lunges": "0:02:45",
+        "run2": "0:02:55",
+        "bbj": "0:02:13",
+        "run3": "0:03:26",
+        "ski": "0:05:23",
+        "run4": "0:04:00",
+        "sled": "0:02:32",
+        "run5": "0:04:47",
+        "row": "0:05:57",
+        "run6": "0:04:38",
+        "farmer": "0:02:47",
+        "run7": "0:03:22",
+        "wallball": "0:03:58",
+        "finish": "0:51:33"
+      }
+    },
+    {
+      "team_name": "Superbia",
+      "bib": "BIB 162",
+      "temem": {
+        "member_one": "Simon Puja",
+        "member_two": "Davor Plavac"
+      },
+      "results": {
+        "run1": "0:02:57",
+        "lunges": "0:02:34",
+        "run2": "0:03:02",
+        "bbj": "0:03:20",
+        "run3": "0:03:28",
+        "ski": "0:05:03",
+        "run4": "0:03:44",
+        "sled": "0:02:04",
+        "run5": "0:04:13",
+        "row": "0:06:26",
+        "run6": "0:03:52",
+        "farmer": "0:02:18",
+        "run7": "0:04:25",
+        "wallball": "0:04:21",
+        "finish": "0:51:42"
+      }
+    },
+    {
+      "team_name": "Kumovi",
+      "bib": "BIB 114",
+      "temem": {
+        "member_one": "Filip Tremac",
+        "member_two": "Sandro Lukac"
+      },
+      "results": {
+        "run1": "0:03:09",
+        "lunges": "0:02:40",
+        "run2": "0:03:05",
+        "bbj": "0:03:27",
+        "run3": "0:03:54",
+        "ski": "0:04:27",
+        "run4": "0:03:59",
+        "sled": "0:02:17",
+        "run5": "0:04:43",
+        "row": "0:05:30",
+        "run6": "0:04:19",
+        "farmer": "0:02:39",
+        "run7": "0:03:36",
+        "wallball": "0:04:14",
+        "finish": "0:51:54"
+      }
+    },
+    {
+      "team_name": "TRENING.ZD",
+      "bib": "BIB 175",
+      "temem": {
+        "member_one": "Mateo Matov",
+        "member_two": "Matej Milkovic"
+      },
+      "results": {
+        "run1": "0:02:47",
+        "lunges": "0:01:48",
+        "run2": "0:02:51",
+        "bbj": "0:02:25",
+        "run3": "0:04:00",
+        "ski": "0:04:42",
+        "run4": "0:04:19",
+        "sled": "0:01:53",
+        "run5": "0:05:31",
+        "row": "0:06:17",
+        "run6": "0:04:43",
+        "farmer": "0:02:26",
+        "run7": "0:04:20",
+        "wallball": "0:04:25",
+        "finish": "0:52:20"
+      }
+    },
+    {
+      "team_name": "Krkani",
+      "bib": "BIB 109",
+      "temem": {
+        "member_one": "Milan Radman",
+        "member_two": "Marijan Turkalj"
+      },
+      "results": {
+        "run1": "0:03:19",
+        "lunges": "0:02:46",
+        "run2": "0:03:22",
+        "bbj": "0:03:30",
+        "run3": "0:04:02",
+        "ski": "0:05:01",
+        "run4": "0:03:54",
+        "sled": "0:02:12",
+        "run5": "0:05:19",
+        "row": "0:05:10",
+        "run6": "0:03:29",
+        "farmer": "0:02:38",
+        "run7": "0:03:37",
+        "wallball": "0:05:25",
+        "finish": "0:53:36"
+      }
+    },
+    {
+      "team_name": "Idemo na svjezinu",
+      "bib": "BIB 93",
+      "temem": {
+        "member_one": "Goran Mraovic",
+        "member_two": "Kristijan Rautek"
+      },
+      "results": {
+        "run1": "0:02:08",
+        "lunges": "0:02:30",
+        "run2": "0:02:46",
+        "bbj": "0:02:46",
+        "run3": "0:03:45",
+        "ski": "0:05:25",
+        "run4": "0:03:49",
+        "sled": "0:02:43",
+        "run5": "0:04:30",
+        "row": "0:07:16",
+        "run6": "0:04:06",
+        "farmer": "0:03:16",
+        "run7": "0:04:21",
+        "wallball": "0:04:33",
+        "finish": "0:53:46"
+      }
+    },
+    {
+      "team_name": "Lolek i Bolek",
+      "bib": "BIB 121",
+      "temem": {
+        "member_one": "Mario Jurišic",
+        "member_two": "Damir Bešic"
+      },
+      "results": {
+        "run1": "0:03:09",
+        "lunges": "0:03:11",
+        "run2": "0:03:11",
+        "bbj": "0:04:34",
+        "run3": "0:03:52",
+        "ski": "0:05:16",
+        "run4": "0:03:57",
+        "sled": "0:02:27",
+        "run5": "0:03:47",
+        "row": "0:06:06",
+        "run6": "0:03:59",
+        "farmer": "0:03:04",
+        "run7": "0:04:01",
+        "wallball": "0:05:07",
+        "finish": "0:55:34"
+      }
+    },
+    {
+      "team_name": "Kumi",
+      "bib": "BIB 113",
+      "temem": {
+        "member_one": "Ivan Ozbolt",
+        "member_two": "Leo Gavran"
+      },
+      "results": {
+        "run1": "0:03:18",
+        "lunges": "0:02:51",
+        "run2": "0:03:21",
+        "bbj": "0:03:25",
+        "run3": "0:04:10",
+        "ski": "0:05:18",
+        "run4": "0:04:05",
+        "sled": "0:01:44",
+        "run5": "0:05:11",
+        "row": "0:05:56",
+        "run6": "0:04:51",
+        "farmer": "0:02:50",
+        "run7": "0:04:42",
+        "wallball": "0:04:11",
+        "finish": "0:55:47"
+      }
+    },
+    {
+      "team_name": "Two Against All",
+      "bib": "BIB 176",
+      "temem": {
+        "member_one": "Antonio Novacic",
+        "member_two": "Dario Mrdja"
+      },
+      "results": {
+        "run1": "0:03:02",
+        "lunges": "0:02:33",
+        "run2": "0:03:35",
+        "bbj": "0:03:01",
+        "run3": "0:05:14",
+        "ski": "0:04:46",
+        "run4": "0:05:30",
+        "sled": "0:01:46",
+        "run5": "0:05:35",
+        "row": "0:06:35",
+        "run6": "0:06:23",
+        "farmer": "0:02:12",
+        "run7": "0:04:51",
+        "wallball": "0:04:22",
+        "finish": "0:59:16"
+      }
+    },
+    {
+      "team_name": "Spori i tvrdoglavi",
+      "bib": "BIB 157",
+      "temem": {
+        "member_one": "Tonko Tomelic",
+        "member_two": "Dominik Štetner"
+      },
+      "results": {
+        "run1": "0:03:18",
+        "lunges": "0:02:42",
+        "run2": "0:03:46",
+        "bbj": "0:03:57",
+        "run3": "0:04:45",
+        "ski": "0:06:00",
+        "run4": "0:04:16",
+        "sled": "0:02:14",
+        "run5": "0:05:59",
+        "row": "0:05:59",
+        "run6": "0:04:23",
+        "farmer": "0:03:00",
+        "run7": "0:04:02",
+        "wallball": "0:05:21",
+        "finish": "0:59:35"
+      }
+    },
+    {
+      "team_name": "Zdolec",
+      "bib": "BIB 185",
+      "temem": {
+        "member_one": "Benjamin Zdolec",
+        "member_two": "Danijel Zdolec"
+      },
+      "results": {
+        "run1": "0:03:32",
+        "lunges": "0:02:46",
+        "run2": "0:03:42",
+        "bbj": "0:04:20",
+        "run3": "0:04:39",
+        "ski": "0:04:45",
+        "run4": "0:05:08",
+        "sled": "0:02:24",
+        "run5": "0:05:21",
+        "row": "0:07:13",
+        "run6": "0:04:48",
+        "farmer": "0:03:06",
+        "run7": "0:04:43",
+        "wallball": "0:06:14",
+        "finish": "1:02:34"
+      }
+    },
+    {
+      "team_name": "SUBOS",
+      "bib": "BIB 160",
+      "temem": {
+        "member_one": "Filip Cešnjak",
+        "member_two": "Nikola Vidas"
+      },
+      "results": {
+        "run1": "0:03:58",
+        "lunges": "0:03:31",
+        "run2": "0:04:15",
+        "bbj": "0:04:24",
+        "run3": "0:05:14",
+        "ski": "0:05:05",
+        "run4": "0:05:21",
+        "sled": "0:02:26",
+        "run5": "0:05:28",
+        "row": "0:06:00",
+        "run6": "0:05:48",
+        "farmer": "0:03:10",
+        "run7": "0:05:18",
+        "wallball": "0:04:43",
+        "finish": "1:04:33"
+      }
+    },
+    {
+      "team_name": "Junaci",
+      "bib": "BIB 98",
+      "temem": {
+        "member_one": "Ivan Klaric",
+        "member_two": "Matija Kukor"
+      },
+      "results": {
+        "run1": "0:03:55",
+        "lunges": "0:03:36",
+        "run2": "0:03:46",
+        "bbj": "0:05:28",
+        "run3": "0:04:35",
+        "ski": "0:05:24",
+        "run4": "0:06:11",
+        "sled": "0:02:34",
+        "run5": "0:06:18",
+        "row": "0:06:48",
+        "run6": "0:05:15",
+        "farmer": "0:03:11",
+        "run7": "0:05:14",
+        "wallball": "0:05:14",
+        "finish": "1:07:21"
+      }
+    }
+  ],
+  "Women": [
+    {
+      "team_name": "Chase your dreams",
+      "bib": "BIB 80",
+      "temem": {
+        "member_one": "Lucija Vukovic",
+        "member_two": "Sendi Bujanovic"
+      },
+      "results": {
+        "run1": "0:02:36",
+        "lunges": "0:02:11",
+        "run2": "0:02:38",
+        "bbj": "0:02:32",
+        "run3": "0:02:55",
+        "ski": "0:05:16",
+        "run4": "0:02:53",
+        "sled": "0:01:49",
+        "run5": "0:02:56",
+        "row": "0:05:35",
+        "run6": "0:03:00",
+        "farmer": "0:02:10",
+        "run7": "0:02:58",
+        "wallball": "0:03:37",
+        "finish": "0:43:00"
+      }
+    },
+    {
+      "team_name": "Made in GetFit",
+      "bib": "BIB 125",
+      "temem": {
+        "member_one": "Lea Komocar",
+        "member_two": "Petra Crnkovic"
+      },
+      "results": {
+        "run1": "0:02:36",
+        "lunges": "0:02:22",
+        "run2": "0:02:36",
+        "bbj": "0:03:27",
+        "run3": "0:02:46",
+        "ski": "0:04:47",
+        "run4": "0:02:50",
+        "sled": "0:02:59",
+        "run5": "0:02:53",
+        "row": "0:05:24",
+        "run6": "0:02:56",
+        "farmer": "0:02:19",
+        "run7": "0:02:48",
+        "wallball": "0:03:48",
+        "finish": "0:44:25"
+      }
+    },
+    {
+      "team_name": "Girls With Goals",
+      "bib": "BIB 89",
+      "temem": {
+        "member_one": "Silvia Kos",
+        "member_two": "Ela Košanski"
+      },
+      "results": {
+        "run1": "0:02:43",
+        "lunges": "0:02:23",
+        "run2": "0:02:39",
+        "bbj": "0:02:56",
+        "run3": "0:02:54",
+        "ski": "0:04:59",
+        "run4": "0:02:57",
+        "sled": "0:02:17",
+        "run5": "0:03:10",
+        "row": "0:05:47",
+        "run6": "0:03:18",
+        "farmer": "0:02:35",
+        "run7": "0:03:18",
+        "wallball": "0:03:40",
+        "finish": "0:45:30"
+      }
+    },
+    {
+      "team_name": "M&M",
+      "bib": "BIB 132",
+      "temem": {
+        "member_one": "Maša Cauševic",
+        "member_two": "Maruša Borovšak"
+      },
+      "results": {
+        "run1": "0:02:52",
+        "lunges": "0:02:55",
+        "run2": "0:02:43",
+        "bbj": "0:03:30",
+        "run3": "0:02:46",
+        "ski": "0:05:06",
+        "run4": "0:02:51",
+        "sled": "0:02:22",
+        "run5": "0:03:04",
+        "row": "0:05:42",
+        "run6": "0:02:56",
+        "farmer": "0:02:27",
+        "run7": "0:02:49",
+        "wallball": "0:04:15",
+        "finish": "0:46:12"
+      }
+    },
+    {
+      "team_name": "Nutrifit_Masha",
+      "bib": "BIB 137",
+      "temem": {
+        "member_one": "Marija Kukolj",
+        "member_two": "Emilija Kosic"
+      },
+      "results": {
+        "run1": "0:02:51",
+        "lunges": "0:02:34",
+        "run2": "0:02:50",
+        "bbj": "0:03:06",
+        "run3": "0:02:59",
+        "ski": "0:05:24",
+        "run4": "0:03:14",
+        "sled": "0:02:06",
+        "run5": "0:03:26",
+        "row": "0:05:31",
+        "run6": "0:03:29",
+        "farmer": "0:02:21",
+        "run7": "0:03:24",
+        "wallball": "0:03:46",
+        "finish": "0:46:53"
+      }
+    },
+    {
+      "team_name": "Kvokice",
+      "bib": "BIB 115",
+      "temem": {
+        "member_one": "Klara Vresk",
+        "member_two": "Stela Grobotek"
+      },
+      "results": {
+        "run1": "0:02:52",
+        "lunges": "0:02:39",
+        "run2": "0:02:50",
+        "bbj": "0:03:10",
+        "run3": "0:02:56",
+        "ski": "0:05:17",
+        "run4": "0:02:56",
+        "sled": "0:02:42",
+        "run5": "0:03:05",
+        "row": "0:06:02",
+        "run6": "0:03:03",
+        "farmer": "0:02:52",
+        "run7": "0:02:51",
+        "wallball": "0:04:06",
+        "finish": "0:47:13"
+      }
+    },
+    {
+      "team_name": "Team 167",
+      "bib": "BIB 167",
+      "temem": {
+        "member_one": "Jana Erent",
+        "member_two": "Mia Kozjak"
+      },
+      "results": {
+        "run1": "0:02:53",
+        "lunges": "0:02:33",
+        "run2": "0:02:55",
+        "bbj": "0:02:47",
+        "run3": "0:03:04",
+        "ski": "0:05:29",
+        "run4": "0:03:02",
+        "sled": "0:02:17",
+        "run5": "0:03:13",
+        "row": "0:05:53",
+        "run6": "0:02:57",
+        "farmer": "0:03:15",
+        "run7": "0:02:58",
+        "wallball": "0:04:11",
+        "finish": "0:47:18"
+      }
+    },
+    {
+      "team_name": "A je to",
+      "bib": "BIB 67",
+      "temem": {
+        "member_one": "Alda Cefo",
+        "member_two": "Hannah Ziganto"
+      },
+      "results": {
+        "run1": "0:03:00",
+        "lunges": "0:02:25",
+        "run2": "0:02:54",
+        "bbj": "0:02:43",
+        "run3": "0:03:05",
+        "ski": "0:05:09",
+        "run4": "0:03:11",
+        "sled": "0:02:16",
+        "run5": "0:03:25",
+        "row": "0:06:17",
+        "run6": "0:03:31",
+        "farmer": "0:02:30",
+        "run7": "0:03:17",
+        "wallball": "0:03:51",
+        "finish": "0:47:27"
+      }
+    },
+    {
+      "team_name": "Milenijalke u krizi",
+      "bib": "BIB 129",
+      "temem": {
+        "member_one": "Josipa Šaric",
+        "member_two": "Monika Rakitnican"
+      },
+      "results": {
+        "run1": "0:03:04",
+        "lunges": "0:02:40",
+        "run2": "0:02:49",
+        "bbj": "0:03:24",
+        "run3": "0:03:01",
+        "ski": "0:05:24",
+        "run4": "0:02:59",
+        "sled": "0:02:20",
+        "run5": "0:03:14",
+        "row": "0:06:32",
+        "run6": "0:03:06",
+        "farmer": "0:02:32",
+        "run7": "0:03:10",
+        "wallball": "0:03:50",
+        "finish": "0:47:59"
+      }
+    },
+    {
+      "team_name": "tri po tri",
+      "bib": "BIB 266",
+      "temem": {
+        "member_one": "Nika Dumancic",
+        "member_two": "Lea Kvesic"
+      },
+      "results": {
+        "run1": "0:02:43",
+        "lunges": "0:02:55",
+        "run2": "0:02:50",
+        "bbj": "0:03:33",
+        "run3": "0:03:35",
+        "ski": "0:05:56",
+        "run4": "0:03:26",
+        "sled": "0:02:45",
+        "run5": "0:03:32",
+        "row": "0:05:54",
+        "run6": "0:03:34",
+        "farmer": "0:01:24",
+        "run7": "0:03:28",
+        "wallball": "0:04:05",
+        "finish": "0:49:34"
+      }
+    },
+    {
+      "team_name": "Rim Tim Tagi Dim",
+      "bib": "BIB 151",
+      "temem": {
+        "member_one": "Anamarija Kolenkovic",
+        "member_two": "Brigita Glasnovic"
+      },
+      "results": {
+        "run1": "0:03:20",
+        "lunges": "0:02:29",
+        "run2": "0:03:33",
+        "bbj": "0:03:20",
+        "run3": "0:03:45",
+        "ski": "0:05:12",
+        "run4": "0:03:55",
+        "sled": "0:02:01",
+        "run5": "0:03:35",
+        "row": "0:06:11",
+        "run6": "0:03:56",
+        "farmer": "0:02:10",
+        "run7": "0:03:34",
+        "wallball": "0:03:32",
+        "finish": "0:50:27"
+      }
+    },
+    {
+      "team_name": "Sitne dinamitne x",
+      "bib": "BIB 154",
+      "temem": {
+        "member_one": "Marija Kaniški",
+        "member_two": "Laura Preloznjak"
+      },
+      "results": {
+        "run1": "0:02:54",
+        "lunges": "0:02:50",
+        "run2": "0:02:53",
+        "bbj": "0:03:44",
+        "run3": "0:03:18",
+        "ski": "0:05:18",
+        "run4": "0:03:42",
+        "sled": "0:02:06",
+        "run5": "0:04:01",
+        "row": "0:06:02",
+        "run6": "0:04:01",
+        "farmer": "0:02:43",
+        "run7": "0:03:53",
+        "wallball": "0:03:51",
+        "finish": "0:51:09"
+      }
+    },
+    {
+      "team_name": "Ajmo? Ajde!",
+      "bib": "BIB 68",
+      "temem": {
+        "member_one": "Viktorija Lucic",
+        "member_two": "Matea Vrdoljak"
+      },
+      "results": {
+        "run1": "0:03:03",
+        "lunges": "0:03:01",
+        "run2": "0:03:04",
+        "bbj": "0:02:42",
+        "run3": "0:03:23",
+        "ski": "0:05:10",
+        "run4": "0:03:43",
+        "sled": "0:02:12",
+        "run5": "0:03:57",
+        "row": "0:07:29",
+        "run6": "0:03:40",
+        "farmer": "0:02:37",
+        "run7": "0:03:24",
+        "wallball": "0:03:53",
+        "finish": "0:51:11"
+      }
+    },
+    {
+      "team_name": "Petre",
+      "bib": "BIB 143",
+      "temem": {
+        "member_one": "Petra Štirjan",
+        "member_two": "Petra Šenicnjak"
+      },
+      "results": {
+        "run1": "0:03:11",
+        "lunges": "0:02:36",
+        "run2": "0:03:06",
+        "bbj": "0:03:20",
+        "run3": "0:04:16",
+        "ski": "0:05:12",
+        "run4": "0:04:22",
+        "sled": "0:01:56",
+        "run5": "0:04:17",
+        "row": "0:05:48",
+        "run6": "0:04:19",
+        "farmer": "0:02:31",
+        "run7": "0:03:46",
+        "wallball": "0:03:40",
+        "finish": "0:52:12"
+      }
+    },
+    {
+      "team_name": "Zone 5 Survivors",
+      "bib": "BIB 187",
+      "temem": {
+        "member_one": "Mateja Matijašic",
+        "member_two": "Simona Krsnik"
+      },
+      "results": {
+        "run1": "0:03:10",
+        "lunges": "0:02:55",
+        "run2": "0:02:52",
+        "bbj": "0:03:25",
+        "run3": "0:03:14",
+        "ski": "0:05:48",
+        "run4": "0:03:27",
+        "sled": "0:02:22",
+        "run5": "0:03:34",
+        "row": "0:06:19",
+        "run6": "0:03:43",
+        "farmer": "0:03:19",
+        "run7": "0:03:56",
+        "wallball": "0:04:40",
+        "finish": "0:52:37"
+      }
+    },
+    {
+      "team_name": "borderLine",
+      "bib": "BIB 75",
+      "temem": {
+        "member_one": "Maja Leskovar",
+        "member_two": "Vana Anic"
+      },
+      "results": {
+        "run1": "0:03:23",
+        "lunges": "0:03:05",
+        "run2": "0:03:22",
+        "bbj": "0:03:20",
+        "run3": "0:03:42",
+        "ski": "0:05:42",
+        "run4": "0:03:55",
+        "sled": "0:02:30",
+        "run5": "0:03:43",
+        "row": "0:06:17",
+        "run6": "0:03:44",
+        "farmer": "0:02:35",
+        "run7": "0:03:39",
+        "wallball": "0:03:48",
+        "finish": "0:52:38"
+      }
+    },
+    {
+      "team_name": "sm sync",
+      "bib": "BIB 156",
+      "temem": {
+        "member_one": "Marta Tobias",
+        "member_two": "Sandra Šilec-Kukec"
+      },
+      "results": {
+        "run1": "0:03:17",
+        "lunges": "0:03:00",
+        "run2": "0:03:04",
+        "bbj": "0:04:01",
+        "run3": "0:03:16",
+        "ski": "0:05:38",
+        "run4": "0:03:29",
+        "sled": "0:02:51",
+        "run5": "0:03:48",
+        "row": "0:06:04",
+        "run6": "0:03:40",
+        "farmer": "0:02:36",
+        "run7": "0:03:32",
+        "wallball": "0:04:38",
+        "finish": "0:52:45"
+      }
+    },
+    {
+      "team_name": "Superbia",
+      "bib": "BIB 161",
+      "temem": {
+        "member_one": "Marija  Galic",
+        "member_two": "Ivana Hartek"
+      },
+      "results": {
+        "run1": "0:03:32",
+        "lunges": "0:03:03",
+        "run2": "0:03:26",
+        "bbj": "0:03:57",
+        "run3": "0:03:29",
+        "ski": "0:05:36",
+        "run4": "0:03:28",
+        "sled": "0:02:31",
+        "run5": "0:03:36",
+        "row": "0:06:22",
+        "run6": "0:03:40",
+        "farmer": "0:02:36",
+        "run7": "0:03:30",
+        "wallball": "0:04:15",
+        "finish": "0:52:54"
+      }
+    },
+    {
+      "team_name": "KIFlice",
+      "bib": "BIB 103",
+      "temem": {
+        "member_one": "Sara Lackovic",
+        "member_two": "Josipa Novakovic"
+      },
+      "results": {
+        "run1": "0:02:53",
+        "lunges": "0:02:51",
+        "run2": "0:02:56",
+        "bbj": "0:04:07",
+        "run3": "0:03:39",
+        "ski": "0:05:54",
+        "run4": "0:03:31",
+        "sled": "0:02:49",
+        "run5": "0:03:54",
+        "row": "0:06:41",
+        "run6": "0:03:28",
+        "farmer": "0:02:45",
+        "run7": "0:03:33",
+        "wallball": "0:04:18",
+        "finish": "0:53:11"
+      }
+    },
+    {
+      "team_name": "Thelma & Louise",
+      "bib": "BIB 169",
+      "temem": {
+        "member_one": "Kristina Bencetic",
+        "member_two": "Karla Rotim"
+      },
+      "results": {
+        "run1": "0:03:01",
+        "lunges": "0:02:53",
+        "run2": "0:02:52",
+        "bbj": "0:03:47",
+        "run3": "0:03:54",
+        "ski": "0:05:29",
+        "run4": "0:03:53",
+        "sled": "0:03:24",
+        "run5": "0:04:04",
+        "row": "0:06:22",
+        "run6": "0:03:25",
+        "farmer": "0:02:33",
+        "run7": "0:03:38",
+        "wallball": "0:04:04",
+        "finish": "0:53:14"
+      }
+    },
+    {
+      "team_name": "Zustre",
+      "bib": "BIB 189",
+      "temem": {
+        "member_one": "Magdalena Trstenjak",
+        "member_two": "Jelena Niševic"
+      },
+      "results": {
+        "run1": "0:02:55",
+        "lunges": "0:03:03",
+        "run2": "0:03:07",
+        "bbj": "0:04:10",
+        "run3": "0:03:30",
+        "ski": "0:05:41",
+        "run4": "0:03:35",
+        "sled": "0:02:44",
+        "run5": "0:03:48",
+        "row": "0:06:02",
+        "run6": "0:03:54",
+        "farmer": "0:02:49",
+        "run7": "0:03:57",
+        "wallball": "0:04:08",
+        "finish": "0:53:18"
+      }
+    },
+    {
+      "team_name": "Zona 5",
+      "bib": "BIB 186",
+      "temem": {
+        "member_one": "Kristina Horvat",
+        "member_two": "Sanja Milanovic"
+      },
+      "results": {
+        "run1": "0:03:30",
+        "lunges": "0:02:52",
+        "run2": "0:03:20",
+        "bbj": "0:03:22",
+        "run3": "0:03:39",
+        "ski": "0:05:40",
+        "run4": "0:03:30",
+        "sled": "0:02:53",
+        "run5": "0:04:05",
+        "row": "0:02:34",
+        "run6": "0:03:46",
+        "farmer": "0:06:35",
+        "run7": "0:03:48",
+        "wallball": "0:04:12",
+        "finish": "0:53:38"
+      }
+    },
+    {
+      "team_name": "Palacnike",
+      "bib": "BIB 141",
+      "temem": {
+        "member_one": "Linda Bulic",
+        "member_two": "Eva Blazun"
+      },
+      "results": {
+        "run1": "0:02:56",
+        "lunges": "0:02:54",
+        "run2": "0:03:01",
+        "bbj": "0:03:44",
+        "run3": "0:03:49",
+        "ski": "0:05:41",
+        "run4": "0:04:06",
+        "sled": "0:02:33",
+        "run5": "0:04:48",
+        "row": "0:06:22",
+        "run6": "0:04:01",
+        "farmer": "0:02:14",
+        "run7": "0:03:50",
+        "wallball": "0:03:51",
+        "finish": "0:53:42"
+      }
+    },
+    {
+      "team_name": "M&M",
+      "bib": "BIB 131",
+      "temem": {
+        "member_one": "Mihaela Baric",
+        "member_two": "Mia Baric"
+      },
+      "results": {
+        "run1": "0:03:18",
+        "lunges": "0:03:18",
+        "run2": "0:03:27",
+        "bbj": "0:04:36",
+        "run3": "0:03:18",
+        "ski": "0:05:56",
+        "run4": "0:03:35",
+        "sled": "0:03:06",
+        "run5": "0:03:57",
+        "row": "0:06:24",
+        "run6": "0:03:43",
+        "farmer": "0:02:31",
+        "run7": "0:03:48",
+        "wallball": "0:04:22",
+        "finish": "0:55:12"
+      }
+    },
+    {
+      "team_name": "Krivo skrenule",
+      "bib": "BIB 108",
+      "temem": {
+        "member_one": "Petra Koljnrekaj",
+        "member_two": "Nika Dušak"
+      },
+      "results": {
+        "run1": "0:03:18",
+        "lunges": "0:03:02",
+        "run2": "0:03:21",
+        "bbj": "0:04:06",
+        "run3": "0:03:41",
+        "ski": "0:05:47",
+        "run4": "0:03:36",
+        "sled": "0:03:41",
+        "run5": "0:04:06",
+        "row": "0:06:11",
+        "run6": "0:03:44",
+        "farmer": "0:03:00",
+        "run7": "0:03:53",
+        "wallball": "0:04:14",
+        "finish": "0:55:30"
+      }
+    },
+    {
+      "team_name": "Reset Gym-ice",
+      "bib": "BIB 150",
+      "temem": {
+        "member_one": "Ivana Juric",
+        "member_two": "Renata Kos"
+      },
+      "results": {
+        "run1": "0:03:29",
+        "lunges": "0:03:13",
+        "run2": "0:03:29",
+        "bbj": "0:04:23",
+        "run3": "0:03:47",
+        "ski": "0:05:45",
+        "run4": "0:03:55",
+        "sled": "0:02:05",
+        "run5": "0:04:14",
+        "row": "0:06:21",
+        "run6": "0:04:07",
+        "farmer": "0:02:31",
+        "run7": "0:03:51",
+        "wallball": "0:04:30",
+        "finish": "0:55:32"
+      }
+    },
+    {
+      "team_name": "Sweat Sisters",
+      "bib": "BIB 165",
+      "temem": {
+        "member_one": "Kristina Noršic",
+        "member_two": "Marija Bahat"
+      },
+      "results": {
+        "run1": "0:03:26",
+        "lunges": "0:02:53",
+        "run2": "0:03:28",
+        "bbj": "0:04:15",
+        "run3": "0:03:50",
+        "ski": "0:05:28",
+        "run4": "0:04:16",
+        "sled": "0:02:43",
+        "run5": "0:04:45",
+        "row": "0:06:29",
+        "run6": "0:04:06",
+        "farmer": "0:02:47",
+        "run7": "0:03:48",
+        "wallball": "0:04:10",
+        "finish": "0:56:15"
+      }
+    },
+    {
+      "team_name": "Too hot to pace",
+      "bib": "BIB 172",
+      "temem": {
+        "member_one": "Petra Kresaj",
+        "member_two": "Martina Šeb"
+      },
+      "results": {
+        "run1": "0:03:34",
+        "lunges": "0:03:17",
+        "run2": "0:03:00",
+        "bbj": "0:03:43",
+        "run3": "0:03:28",
+        "ski": "0:05:59",
+        "run4": "0:04:00",
+        "sled": "0:02:22",
+        "run5": "0:04:00",
+        "row": "0:06:37",
+        "run6": "0:03:59",
+        "farmer": "0:03:21",
+        "run7": "0:04:04",
+        "wallball": "0:05:05",
+        "finish": "0:56:23"
+      }
+    },
+    {
+      "team_name": "In Shape",
+      "bib": "BIB 94",
+      "temem": {
+        "member_one": "Branka Blagojevic",
+        "member_two": "Tea Trifkovic"
+      },
+      "results": {
+        "run1": "0:03:21",
+        "lunges": "0:02:56",
+        "run2": "0:03:27",
+        "bbj": "0:04:15",
+        "run3": "0:03:41",
+        "ski": "0:05:45",
+        "run4": "0:04:02",
+        "sled": "0:03:43",
+        "run5": "0:04:00",
+        "row": "0:06:43",
+        "run6": "0:03:46",
+        "farmer": "0:02:52",
+        "run7": "0:03:59",
+        "wallball": "0:04:23",
+        "finish": "0:56:48"
+      }
+    },
+    {
+      "team_name": "NPS7",
+      "bib": "BIB 136",
+      "temem": {
+        "member_one": "Petra Razum",
+        "member_two": "Maja Grgecic"
+      },
+      "results": {
+        "run1": "0:03:31",
+        "lunges": "0:02:52",
+        "run2": "0:03:33",
+        "bbj": "0:03:44",
+        "run3": "0:04:19",
+        "ski": "0:05:37",
+        "run4": "0:04:19",
+        "sled": "0:02:32",
+        "run5": "0:04:14",
+        "row": "0:06:40",
+        "run6": "0:04:25",
+        "farmer": "0:02:48",
+        "run7": "0:04:05",
+        "wallball": "0:04:22",
+        "finish": "0:56:53"
+      }
+    },
+    {
+      "team_name": "L2 power",
+      "bib": "BIB 116",
+      "temem": {
+        "member_one": "Laura Periša",
+        "member_two": "Leona Periša"
+      },
+      "results": {
+        "run1": "0:02:56",
+        "lunges": "0:02:46",
+        "run2": "0:03:44",
+        "bbj": "0:04:21",
+        "run3": "0:03:59",
+        "ski": "0:05:37",
+        "run4": "0:04:21",
+        "sled": "0:02:22",
+        "run5": "0:03:57",
+        "row": "0:06:32",
+        "run6": "0:04:26",
+        "farmer": "0:03:18",
+        "run7": "0:04:24",
+        "wallball": "0:04:23",
+        "finish": "0:57:00"
+      }
+    },
+    {
+      "team_name": "Lucija Regina",
+      "bib": "BIB 124",
+      "temem": {
+        "member_one": "Lucija Bašic",
+        "member_two": "Lucija Regina Boric"
+      },
+      "results": {
+        "run1": "0:03:05",
+        "lunges": "0:03:00",
+        "run2": "0:03:32",
+        "bbj": "0:04:08",
+        "run3": "0:04:23",
+        "ski": "0:05:54",
+        "run4": "0:04:05",
+        "sled": "0:02:30",
+        "run5": "0:04:49",
+        "row": "0:06:44",
+        "run6": "0:04:18",
+        "farmer": "0:02:32",
+        "run7": "0:04:13",
+        "wallball": "0:04:29",
+        "finish": "0:57:33"
+      }
+    },
+    {
+      "team_name": "TWO MUCH",
+      "bib": "BIB 177",
+      "temem": {
+        "member_one": "Tihana Jurkovic Fanta",
+        "member_two": "Antonella Noršic"
+      },
+      "results": {
+        "run1": "0:03:18",
+        "lunges": "0:03:36",
+        "run2": "0:03:34",
+        "bbj": "0:04:09",
+        "run3": "0:04:08",
+        "ski": "0:05:54",
+        "run4": "0:04:47",
+        "sled": "0:02:37",
+        "run5": "0:04:21",
+        "row": "0:06:18",
+        "run6": "0:04:21",
+        "farmer": "0:02:55",
+        "run7": "0:04:23",
+        "wallball": "0:03:54",
+        "finish": "0:58:07"
+      }
+    },
+    {
+      "team_name": "Slowrox",
+      "bib": "BIB 155",
+      "temem": {
+        "member_one": "Andrea Kocelj Bracic",
+        "member_two": "Ivana Sušanj Cindric"
+      },
+      "results": {
+        "run1": "0:03:26",
+        "lunges": "0:03:25",
+        "run2": "0:03:23",
+        "bbj": "0:04:53",
+        "run3": "0:04:06",
+        "ski": "0:05:43",
+        "run4": "0:04:14",
+        "sled": "0:02:31",
+        "run5": "0:04:36",
+        "row": "0:06:50",
+        "run6": "0:04:32",
+        "farmer": "0:02:38",
+        "run7": "0:04:09",
+        "wallball": "0:04:05",
+        "finish": "0:58:26"
+      }
+    },
+    {
+      "team_name": "Petar i Robi",
+      "bib": "BIB 142",
+      "temem": {
+        "member_one": "Tara Kezelj",
+        "member_two": "Iva Magdic"
+      },
+      "results": {
+        "run1": "0:03:33",
+        "lunges": "0:03:25",
+        "run2": "0:03:35",
+        "bbj": "0:03:50",
+        "run3": "0:05:14",
+        "ski": "0:05:57",
+        "run4": "0:04:06",
+        "sled": "0:02:36",
+        "run5": "0:04:20",
+        "row": "0:06:59",
+        "run6": "0:04:50",
+        "farmer": "0:02:45",
+        "run7": "0:04:16",
+        "wallball": "0:04:10",
+        "finish": "0:59:30"
+      }
+    },
+    {
+      "team_name": "Samo da preguramo",
+      "bib": "BIB 152",
+      "temem": {
+        "member_one": "Špela Kukenberg",
+        "member_two": "Kristina Rozanc"
+      },
+      "results": {
+        "run1": "0:03:30",
+        "lunges": "0:03:09",
+        "run2": "0:03:38",
+        "bbj": "0:04:01",
+        "run3": "0:04:08",
+        "ski": "0:05:06",
+        "run4": "0:04:41",
+        "sled": "0:03:08",
+        "run5": "0:05:23",
+        "row": "0:06:11",
+        "run6": "0:05:07",
+        "farmer": "0:02:45",
+        "run7": "0:04:55",
+        "wallball": "0:04:50",
+        "finish": "1:00:25"
+      }
+    },
+    {
+      "team_name": "Sveta veza",
+      "bib": "BIB 164",
+      "temem": {
+        "member_one": "Madlen Lipic",
+        "member_two": "Petra Vugrinec"
+      },
+      "results": {
+        "run1": "0:03:18",
+        "lunges": "0:03:07",
+        "run2": "0:03:27",
+        "bbj": "0:04:13",
+        "run3": "0:04:09",
+        "ski": "0:05:59",
+        "run4": "0:04:33",
+        "sled": "0:03:42",
+        "run5": "0:05:30",
+        "row": "0:06:45",
+        "run6": "0:04:47",
+        "farmer": "0:02:57",
+        "run7": "0:04:19",
+        "wallball": "0:04:18",
+        "finish": "1:00:56"
+      }
+    },
+    {
+      "team_name": "Send Help",
+      "bib": "BIB 153",
+      "temem": {
+        "member_one": "Angela Viali Lauš",
+        "member_two": "Ivona Šantic"
+      },
+      "results": {
+        "run1": "0:03:24",
+        "lunges": "0:03:29",
+        "run2": "0:03:27",
+        "bbj": "0:05:05",
+        "run3": "0:04:01",
+        "ski": "0:06:17",
+        "run4": "0:04:01",
+        "sled": "0:03:35",
+        "run5": "0:04:20",
+        "row": "0:07:12",
+        "run6": "0:03:56",
+        "farmer": "0:03:14",
+        "run7": "0:03:59",
+        "wallball": "0:05:39",
+        "finish": "1:01:33"
+      }
+    },
+    {
+      "team_name": "GUZE MEDUZE",
+      "bib": "BIB 90",
+      "temem": {
+        "member_one": "Lora Skopljak",
+        "member_two": "Gabriela Kamencic"
+      },
+      "results": {
+        "run1": "0:03:16",
+        "lunges": "0:03:00",
+        "run2": "0:03:41",
+        "bbj": "0:03:56",
+        "run3": "0:04:23",
+        "ski": "0:05:55",
+        "run4": "0:04:52",
+        "sled": "0:03:42",
+        "run5": "0:05:11",
+        "row": "0:06:46",
+        "run6": "0:04:33",
+        "farmer": "0:02:52",
+        "run7": "0:04:41",
+        "wallball": "0:05:02",
+        "finish": "1:01:40"
+      }
+    },
+    {
+      "team_name": "Kulenove Seke",
+      "bib": "BIB 112",
+      "temem": {
+        "member_one": "Nives Ostrošic",
+        "member_two": "Tijana Frajtic"
+      },
+      "results": {
+        "run1": "0:03:42",
+        "lunges": "0:03:18",
+        "run2": "0:03:40",
+        "bbj": "0:03:36",
+        "run3": "0:04:53",
+        "ski": "0:05:21",
+        "run4": "0:04:37",
+        "sled": "0:03:08",
+        "run5": "0:05:22",
+        "row": "0:06:52",
+        "run6": "0:04:52",
+        "farmer": "0:03:01",
+        "run7": "0:04:37",
+        "wallball": "0:05:00",
+        "finish": "1:01:52"
+      }
+    },
+    {
+      "team_name": "Krofnice",
+      "bib": "BIB 110",
+      "temem": {
+        "member_one": "Leona Ilakovac",
+        "member_two": "Etelka Valenta"
+      },
+      "results": {
+        "run1": "0:03:36",
+        "lunges": "0:04:02",
+        "run2": "0:03:50",
+        "bbj": "0:04:48",
+        "run3": "0:03:55",
+        "ski": "0:06:02",
+        "run4": "0:04:27",
+        "sled": "0:03:10",
+        "run5": "0:04:38",
+        "row": "0:06:48",
+        "run6": "0:04:35",
+        "farmer": "0:03:03",
+        "run7": "0:04:33",
+        "wallball": "0:05:19",
+        "finish": "1:02:38"
+      }
+    },
+    {
+      "team_name": "J&M – Jace od Izgovora",
+      "bib": "BIB 97",
+      "temem": {
+        "member_one": "Judit Šupe",
+        "member_two": "Helena  Stanic"
+      },
+      "results": {
+        "run1": "0:03:32",
+        "lunges": "0:04:07",
+        "run2": "0:04:29",
+        "bbj": "0:03:56",
+        "run3": "0:05:04",
+        "ski": "0:06:02",
+        "run4": "0:05:37",
+        "sled": "0:02:37",
+        "run5": "0:05:06",
+        "row": "0:06:52",
+        "run6": "0:04:51",
+        "farmer": "0:02:48",
+        "run7": "0:05:00",
+        "wallball": "0:04:31",
+        "finish": "1:04:24"
+      }
+    },
+    {
+      "team_name": "KiM",
+      "bib": "BIB 105",
+      "temem": {
+        "member_one": "Klara Petreski Dragovic",
+        "member_two": "Monika Zeba"
+      },
+      "results": {
+        "run1": "0:03:47",
+        "lunges": "0:03:53",
+        "run2": "0:03:50",
+        "bbj": "0:04:36",
+        "run3": "0:04:28",
+        "ski": "0:05:27",
+        "run4": "0:05:05",
+        "sled": "0:03:03",
+        "run5": "0:05:33",
+        "row": "0:06:24",
+        "run6": "0:05:26",
+        "farmer": "0:03:28",
+        "run7": "0:05:20",
+        "wallball": "0:04:36",
+        "finish": "1:04:49"
+      }
+    },
+    {
+      "team_name": "Zovi 112",
+      "bib": "BIB 188",
+      "temem": {
+        "member_one": "Anamaria Stjepanovic",
+        "member_two": "Lara Matocec"
+      },
+      "results": {
+        "run1": "0:03:58",
+        "lunges": "0:03:39",
+        "run2": "0:04:23",
+        "bbj": "0:04:36",
+        "run3": "0:04:53",
+        "ski": "0:05:31",
+        "run4": "0:05:04",
+        "sled": "0:03:03",
+        "run5": "0:05:29",
+        "row": "0:06:39",
+        "run6": "0:05:21",
+        "farmer": "0:03:28",
+        "run7": "0:05:02",
+        "wallball": "0:04:28",
+        "finish": "1:05:27"
+      }
+    },
+    {
+      "team_name": "Omnia bar",
+      "bib": "BIB 139",
+      "temem": {
+        "member_one": "Iva Horvatic",
+        "member_two": "Mia Modric"
+      },
+      "results": {
+        "run1": "0:03:38",
+        "lunges": "0:03:37",
+        "run2": "0:03:48",
+        "bbj": "0:03:38",
+        "run3": "0:04:45",
+        "ski": "0:06:01",
+        "run4": "0:05:01",
+        "sled": "0:03:26",
+        "run5": "0:05:48",
+        "row": "0:07:16",
+        "run6": "0:05:32",
+        "farmer": "0:03:19",
+        "run7": "0:05:25",
+        "wallball": "0:04:52",
+        "finish": "1:06:00"
+      }
+    },
+    {
+      "team_name": "Ivartina",
+      "bib": "BIB 96",
+      "temem": {
+        "member_one": "Ivana Gosaric",
+        "member_two": "Martina Frišcic"
+      },
+      "results": {
+        "run1": "0:03:47",
+        "lunges": "0:03:43",
+        "run2": "0:03:36",
+        "bbj": "0:05:41",
+        "run3": "0:04:09",
+        "ski": "0:05:39",
+        "run4": "0:04:27",
+        "sled": "0:05:01",
+        "run5": "0:04:32",
+        "row": "0:06:58",
+        "run6": "0:05:01",
+        "farmer": "0:03:18",
+        "run7": "0:04:29",
+        "wallball": "0:05:50",
+        "finish": "1:06:04"
+      }
+    },
+    {
+      "team_name": "Za sve je kriv Josip!",
+      "bib": "BIB 184",
+      "temem": {
+        "member_one": "Marinela Habjanec",
+        "member_two": "Zvjezdana Maric"
+      },
+      "results": {
+        "run1": "0:04:07",
+        "lunges": "0:04:11",
+        "run2": "0:03:56",
+        "bbj": "0:06:50",
+        "run3": "0:04:30",
+        "ski": "0:05:52",
+        "run4": "0:04:48",
+        "sled": "0:04:46",
+        "run5": "0:05:21",
+        "row": "0:06:45",
+        "run6": "0:04:53",
+        "farmer": "0:03:11",
+        "run7": "0:05:08",
+        "wallball": "0:04:28",
+        "finish": "1:08:38"
+      }
+    },
+    {
+      "team_name": "Midlife Muscles",
+      "bib": "BIB 127",
+      "temem": {
+        "member_one": "Valerija Dundic",
+        "member_two": "Marina Odorjan"
+      },
+      "results": {
+        "run1": "0:03:49",
+        "lunges": "0:04:13",
+        "run2": "0:04:25",
+        "bbj": "0:05:42",
+        "run3": "0:11:17",
+        "ski": "0:06:06",
+        "run4": "0:05:49",
+        "sled": "0:02:58",
+        "run5": "0:05:34",
+        "row": "0:06:45",
+        "run6": "0:05:00",
+        "farmer": "0:02:48",
+        "run7": "0:05:10",
+        "wallball": "0:05:06",
+        "finish": "1:14:36"
+      }
+    }
+  ],
+  "Mixed": [
+    {
+      "team_name": "1RM - Mali ptic i veliki kric",
+      "bib": "BIB 61",
+      "temem": {
+        "member_one": "Goran Šantek",
+        "member_two": "Jelena Buntak"
+      },
+      "results": {
+        "run1": "0:02:41",
+        "lunges": "0:02:14",
+        "run2": "0:02:37",
+        "bbj": "0:02:13",
+        "run3": "0:02:47",
+        "ski": "0:04:18",
+        "run4": "0:02:46",
+        "sled": "0:01:43",
+        "run5": "0:02:52",
+        "row": "0:05:03",
+        "run6": "0:02:53",
+        "farmer": "0:02:03",
+        "run7": "0:02:58",
+        "wallball": "0:03:34",
+        "finish": "0:40:37"
+      }
+    },
+    {
+      "team_name": "Strogo zabranjeni pt. 2",
+      "bib": "BIB 159",
+      "temem": {
+        "member_one": "Luka Kovacic",
+        "member_two": "Stella Zlodi"
+      },
+      "results": {
+        "run1": "0:02:23",
+        "lunges": "0:02:16",
+        "run2": "0:02:25",
+        "bbj": "0:02:25",
+        "run3": "0:02:48",
+        "ski": "0:04:30",
+        "run4": "0:02:50",
+        "sled": "0:01:55",
+        "run5": "0:02:52",
+        "row": "0:05:11",
+        "run6": "0:03:04",
+        "farmer": "0:02:12",
+        "run7": "0:02:48",
+        "wallball": "0:03:32",
+        "finish": "0:41:03"
+      }
+    },
+    {
+      "team_name": "Sport HUB",
+      "bib": "BIB 158",
+      "temem": {
+        "member_one": "Josip Kiric",
+        "member_two": "Tena Horvat"
+      },
+      "results": {
+        "run1": "0:02:37",
+        "lunges": "0:02:17",
+        "run2": "0:02:27",
+        "bbj": "0:02:18",
+        "run3": "0:02:38",
+        "ski": "0:04:32",
+        "run4": "0:02:43",
+        "sled": "0:02:13",
+        "run5": "0:02:51",
+        "row": "0:05:50",
+        "run6": "0:03:05",
+        "farmer": "0:02:06",
+        "run7": "0:02:47",
+        "wallball": "0:03:22",
+        "finish": "0:41:39"
+      }
+    },
+    {
+      "team_name": "K&A",
+      "bib": "BIB 101",
+      "temem": {
+        "member_one": "Kristina Cuk",
+        "member_two": "Antonio Anušic"
+      },
+      "results": {
+        "run1": "0:02:51",
+        "lunges": "0:02:17",
+        "run2": "0:02:38",
+        "bbj": "0:02:17",
+        "run3": "0:02:58",
+        "ski": "0:04:27",
+        "run4": "0:02:46",
+        "sled": "0:02:09",
+        "run5": "0:03:09",
+        "row": "0:02:21",
+        "run6": "0:03:22",
+        "farmer": "0:04:47",
+        "run7": "0:02:59",
+        "wallball": "0:03:38",
+        "finish": "0:42:31"
+      }
+    },
+    {
+      "team_name": "Breaking More Than Your DMs",
+      "bib": "BIB 77",
+      "temem": {
+        "member_one": "Dejan Obranic",
+        "member_two": "Martina Škrlec"
+      },
+      "results": {
+        "run1": "0:02:42",
+        "lunges": "0:02:14",
+        "run2": "0:02:40",
+        "bbj": "0:02:24",
+        "run3": "0:03:04",
+        "ski": "0:04:38",
+        "run4": "0:02:51",
+        "sled": "0:01:48",
+        "run5": "0:03:16",
+        "row": "0:05:42",
+        "run6": "0:03:00",
+        "farmer": "0:02:15",
+        "run7": "0:03:01",
+        "wallball": "0:03:25",
+        "finish": "0:42:51"
+      }
+    },
+    {
+      "team_name": "Trbouca",
+      "bib": "BIB 174",
+      "temem": {
+        "member_one": "Zan Lipovšek",
+        "member_two": "Nika Kolenc"
+      },
+      "results": {
+        "run1": "0:02:43",
+        "lunges": "0:02:19",
+        "run2": "0:02:35",
+        "bbj": "0:02:58",
+        "run3": "0:02:49",
+        "ski": "0:04:44",
+        "run4": "0:02:55",
+        "sled": "0:01:35",
+        "run5": "0:03:14",
+        "row": "0:05:23",
+        "run6": "0:03:05",
+        "farmer": "0:02:18",
+        "run7": "0:03:00",
+        "wallball": "0:03:46",
+        "finish": "0:43:17"
+      }
+    },
+    {
+      "team_name": "3008",
+      "bib": "BIB 63",
+      "temem": {
+        "member_one": "Mijo Perkovic",
+        "member_two": "Iva Marincic"
+      },
+      "results": {
+        "run1": "0:02:51",
+        "lunges": "0:02:24",
+        "run2": "0:02:45",
+        "bbj": "0:02:42",
+        "run3": "0:03:04",
+        "ski": "0:04:24",
+        "run4": "0:02:54",
+        "sled": "0:02:03",
+        "run5": "0:03:12",
+        "row": "0:05:20",
+        "run6": "0:03:10",
+        "farmer": "0:02:21",
+        "run7": "0:03:00",
+        "wallball": "0:03:34",
+        "finish": "0:43:37"
+      }
+    },
+    {
+      "team_name": "5.11 team",
+      "bib": "BIB 65",
+      "temem": {
+        "member_one": "Ancica  Posavec",
+        "member_two": "Marko Zigman"
+      },
+      "results": {
+        "run1": "0:02:45",
+        "lunges": "0:02:26",
+        "run2": "0:02:47",
+        "bbj": "0:02:59",
+        "run3": "0:02:55",
+        "ski": "0:04:33",
+        "run4": "0:02:56",
+        "sled": "0:05:27",
+        "run5": "0:02:59",
+        "row": "0:02:01",
+        "run6": "0:03:04",
+        "farmer": "0:02:14",
+        "run7": "0:03:10",
+        "wallball": "0:03:44",
+        "finish": "0:43:54"
+      }
+    },
+    {
+      "team_name": "Brajaki",
+      "bib": "BIB 76",
+      "temem": {
+        "member_one": "Igor Brajak",
+        "member_two": "Petra Brajak"
+      },
+      "results": {
+        "run1": "0:03:08",
+        "lunges": "0:02:33",
+        "run2": "0:02:59",
+        "bbj": "0:02:42",
+        "run3": "0:03:05",
+        "ski": "0:04:51",
+        "run4": "0:03:06",
+        "sled": "0:01:46",
+        "run5": "0:03:05",
+        "row": "0:05:44",
+        "run6": "0:03:03",
+        "farmer": "0:02:08",
+        "run7": "0:03:09",
+        "wallball": "0:03:45",
+        "finish": "0:44:56"
+      }
+    },
+    {
+      "team_name": "LinoLada",
+      "bib": "BIB 119",
+      "temem": {
+        "member_one": "Ivan Barisic",
+        "member_two": "Sarah Sulaiman"
+      },
+      "results": {
+        "run1": "0:03:07",
+        "lunges": "0:02:21",
+        "run2": "0:02:52",
+        "bbj": "0:02:37",
+        "run3": "0:03:03",
+        "ski": "0:04:28",
+        "run4": "0:03:21",
+        "sled": "0:01:47",
+        "run5": "0:03:18",
+        "row": "0:05:39",
+        "run6": "0:03:17",
+        "farmer": "0:02:23",
+        "run7": "0:03:05",
+        "wallball": "0:03:52",
+        "finish": "0:45:04"
+      }
+    },
+    {
+      "team_name": "Tim TiM",
+      "bib": "BIB 170",
+      "temem": {
+        "member_one": "Mia Barbara Lackovic",
+        "member_two": "Tin Samardzija"
+      },
+      "results": {
+        "run1": "0:03:00",
+        "lunges": "0:02:41",
+        "run2": "0:02:43",
+        "bbj": "0:02:41",
+        "run3": "0:02:51",
+        "ski": "0:04:40",
+        "run4": "0:03:07",
+        "sled": "0:02:01",
+        "run5": "0:03:13",
+        "row": "0:06:00",
+        "run6": "0:03:11",
+        "farmer": "0:02:27",
+        "run7": "0:02:58",
+        "wallball": "0:03:45",
+        "finish": "0:45:09"
+      }
+    },
+    {
+      "team_name": "HINKO PAVLEC",
+      "bib": "BIB 320",
+      "temem": {
+        "member_one": "none",
+        "member_two": "none"
+      },
+      "results": {
+        "run1": "0:02:47",
+        "lunges": "0:02:23",
+        "run2": "0:02:52",
+        "bbj": "0:02:50",
+        "run3": "0:02:56",
+        "ski": "0:04:56",
+        "run4": "0:03:14",
+        "sled": "0:01:59",
+        "run5": "0:03:41",
+        "row": "0:02:35",
+        "run6": "0:03:06",
+        "farmer": "0:05:35",
+        "run7": "0:03:10",
+        "wallball": "0:03:28",
+        "finish": "0:45:25"
+      }
+    },
+    {
+      "team_name": "D&D",
+      "bib": "BIB 85",
+      "temem": {
+        "member_one": "Dora Jurkovic",
+        "member_two": "Dominik Jurkovic"
+      },
+      "results": {
+        "run1": "0:02:40",
+        "lunges": "0:02:43",
+        "run2": "0:02:46",
+        "bbj": "0:02:05",
+        "run3": "0:03:05",
+        "ski": "0:04:57",
+        "run4": "0:03:33",
+        "sled": "0:01:38",
+        "run5": "0:03:24",
+        "row": "0:05:33",
+        "run6": "0:03:27",
+        "farmer": "0:02:20",
+        "run7": "0:03:33",
+        "wallball": "0:04:05",
+        "finish": "0:45:42"
+      }
+    },
+    {
+      "team_name": "Active Vita",
+      "bib": "BIB 66",
+      "temem": {
+        "member_one": "Marko Crljenec",
+        "member_two": "Tea Martincevic"
+      },
+      "results": {
+        "run1": "0:02:46",
+        "lunges": "0:02:42",
+        "run2": "0:02:35",
+        "bbj": "0:03:11",
+        "run3": "0:02:56",
+        "ski": "0:04:48",
+        "run4": "0:03:10",
+        "sled": "0:02:06",
+        "run5": "0:03:44",
+        "row": "0:05:32",
+        "run6": "0:03:17",
+        "farmer": "0:02:21",
+        "run7": "0:03:12",
+        "wallball": "0:03:42",
+        "finish": "0:45:54"
+      }
+    },
+    {
+      "team_name": "Nema kemije, samo laktati",
+      "bib": "BIB 135",
+      "temem": {
+        "member_one": "Bruno Razum",
+        "member_two": "Barbara Zbukvic"
+      },
+      "results": {
+        "run1": "0:03:03",
+        "lunges": "0:02:40",
+        "run2": "0:02:58",
+        "bbj": "0:03:13",
+        "run3": "0:03:18",
+        "ski": "0:04:44",
+        "run4": "0:03:16",
+        "sled": "0:01:51",
+        "run5": "0:03:32",
+        "row": "0:05:29",
+        "run6": "0:03:25",
+        "farmer": "0:02:22",
+        "run7": "0:03:42",
+        "wallball": "0:04:06",
+        "finish": "0:47:33"
+      }
+    },
+    {
+      "team_name": "Batica i Bato",
+      "bib": "BIB 73",
+      "temem": {
+        "member_one": "Tihana Brcko",
+        "member_two": "Dario Sauer"
+      },
+      "results": {
+        "run1": "0:03:14",
+        "lunges": "0:02:58",
+        "run2": "0:03:10",
+        "bbj": "0:03:14",
+        "run3": "0:03:34",
+        "ski": "0:04:19",
+        "run4": "0:03:31",
+        "sled": "0:01:36",
+        "run5": "0:03:53",
+        "row": "0:05:25",
+        "run6": "0:03:57",
+        "farmer": "0:02:18",
+        "run7": "0:03:29",
+        "wallball": "0:04:09",
+        "finish": "0:48:41"
+      }
+    },
+    {
+      "team_name": "La Gym",
+      "bib": "BIB 245",
+      "temem": {
+        "member_one": "Josip Araci",
+        "member_two": "Nika Zadro"
+      },
+      "results": {
+        "run1": "0:03:00",
+        "lunges": "0:02:41",
+        "run2": "0:03:08",
+        "bbj": "0:03:47",
+        "run3": "0:03:31",
+        "ski": "0:05:34",
+        "run4": "0:03:30",
+        "sled": "0:02:45",
+        "run5": "0:03:37",
+        "row": "0:05:49",
+        "run6": "0:03:45",
+        "farmer": "0:02:29",
+        "run7": "0:03:29",
+        "wallball": "0:03:45",
+        "finish": "0:50:42"
+      }
+    },
+    {
+      "team_name": "Ganga i Rera",
+      "bib": "BIB 88",
+      "temem": {
+        "member_one": "Ivana Kosec",
+        "member_two": "Zan Vrazic"
+      },
+      "results": {
+        "run1": "0:03:23",
+        "lunges": "0:02:50",
+        "run2": "0:03:13",
+        "bbj": "0:02:38",
+        "run3": "0:04:42",
+        "ski": "0:04:39",
+        "run4": "0:04:01",
+        "sled": "0:01:53",
+        "run5": "0:03:56",
+        "row": "0:05:32",
+        "run6": "0:03:57",
+        "farmer": "0:02:40",
+        "run7": "0:03:45",
+        "wallball": "0:03:47",
+        "finish": "0:50:49"
+      }
+    },
+    {
+      "team_name": "Burpee Cats",
+      "bib": "BIB 79",
+      "temem": {
+        "member_one": "Goran Perger",
+        "member_two": "Anja Mihalek"
+      },
+      "results": {
+        "run1": "0:02:46",
+        "lunges": "0:02:44",
+        "run2": "0:02:46",
+        "bbj": "0:04:03",
+        "run3": "0:03:27",
+        "ski": "0:04:46",
+        "run4": "0:03:56",
+        "sled": "0:02:08",
+        "run5": "0:04:15",
+        "row": "0:05:49",
+        "run6": "0:04:07",
+        "farmer": "0:02:39",
+        "run7": "0:03:41",
+        "wallball": "0:04:07",
+        "finish": "0:51:06"
+      }
+    },
+    {
+      "team_name": "AS na kvadrat",
+      "bib": "BIB 70",
+      "temem": {
+        "member_one": "Andrej Samarzija",
+        "member_two": "Ana Samarzija"
+      },
+      "results": {
+        "run1": "0:03:13",
+        "lunges": "0:02:46",
+        "run2": "0:03:33",
+        "bbj": "0:03:37",
+        "run3": "0:03:55",
+        "ski": "0:04:47",
+        "run4": "0:03:51",
+        "sled": "0:01:47",
+        "run5": "0:04:23",
+        "row": "0:05:07",
+        "run6": "0:03:57",
+        "farmer": "0:02:30",
+        "run7": "0:03:59",
+        "wallball": "0:03:56",
+        "finish": "0:51:14"
+      }
+    },
+    {
+      "team_name": "Velebit i Mala Kapela",
+      "bib": "BIB 178",
+      "temem": {
+        "member_one": "Ivan Šporcic",
+        "member_two": "Josipa Šporcic"
+      },
+      "results": {
+        "run1": "0:03:12",
+        "lunges": "0:03:00",
+        "run2": "0:03:12",
+        "bbj": "0:03:25",
+        "run3": "0:03:48",
+        "ski": "0:04:48",
+        "run4": "0:03:43",
+        "sled": "0:01:51",
+        "run5": "0:03:54",
+        "row": "0:06:16",
+        "run6": "0:04:06",
+        "farmer": "0:02:25",
+        "run7": "0:03:44",
+        "wallball": "0:03:59",
+        "finish": "0:51:15"
+      }
+    },
+    {
+      "team_name": "L&A",
+      "bib": "BIB 117",
+      "temem": {
+        "member_one": "Lidija Benkovic",
+        "member_two": "Amir Janus"
+      },
+      "results": {
+        "run1": "0:03:05",
+        "lunges": "0:03:09",
+        "run2": "0:03:07",
+        "bbj": "0:04:27",
+        "run3": "0:03:34",
+        "ski": "0:04:57",
+        "run4": "0:03:20",
+        "sled": "0:02:10",
+        "run5": "0:03:45",
+        "row": "0:06:04",
+        "run6": "0:03:18",
+        "farmer": "0:02:20",
+        "run7": "0:03:27",
+        "wallball": "0:04:41",
+        "finish": "0:51:16"
+      }
+    },
+    {
+      "team_name": "Ciprici",
+      "bib": "BIB 81",
+      "temem": {
+        "member_one": "Alenka Cipar",
+        "member_two": "Igor Cipar"
+      },
+      "results": {
+        "run1": "0:03:21",
+        "lunges": "0:03:01",
+        "run2": "0:03:04",
+        "bbj": "0:03:39",
+        "run3": "0:03:26",
+        "ski": "0:04:59",
+        "run4": "0:03:24",
+        "sled": "0:02:08",
+        "run5": "0:03:38",
+        "row": "0:06:15",
+        "run6": "0:03:39",
+        "farmer": "0:02:47",
+        "run7": "0:03:39",
+        "wallball": "0:04:29",
+        "finish": "0:51:23"
+      }
+    },
+    {
+      "team_name": "Bene",
+      "bib": "BIB 74",
+      "temem": {
+        "member_one": "Sara Bene",
+        "member_two": "Kristijan Bene"
+      },
+      "results": {
+        "run1": "0:02:51",
+        "lunges": "0:03:14",
+        "run2": "0:03:05",
+        "bbj": "0:04:36",
+        "run3": "0:03:14",
+        "ski": "0:05:15",
+        "run4": "0:03:15",
+        "sled": "0:02:37",
+        "run5": "0:03:43",
+        "row": "0:06:22",
+        "run6": "0:03:17",
+        "farmer": "0:02:51",
+        "run7": "0:03:03",
+        "wallball": "0:04:15",
+        "finish": "0:51:29"
+      }
+    },
+    {
+      "team_name": "Kosovi",
+      "bib": "BIB 107",
+      "temem": {
+        "member_one": "Tomislav Kos",
+        "member_two": "Iva Kos"
+      },
+      "results": {
+        "run1": "0:03:17",
+        "lunges": "0:02:41",
+        "run2": "0:03:20",
+        "bbj": "0:02:44",
+        "run3": "0:03:50",
+        "ski": "0:05:01",
+        "run4": "0:04:12",
+        "sled": "0:02:04",
+        "run5": "0:04:49",
+        "row": "0:05:45",
+        "run6": "0:04:00",
+        "farmer": "0:02:20",
+        "run7": "0:03:54",
+        "wallball": "0:03:48",
+        "finish": "0:51:39"
+      }
+    },
+    {
+      "team_name": "Tetka i netjak",
+      "bib": "BIB 168",
+      "temem": {
+        "member_one": "Mirela Hosi",
+        "member_two": "Denis Colic"
+      },
+      "results": {
+        "run1": "0:03:17",
+        "lunges": "0:02:50",
+        "run2": "0:03:24",
+        "bbj": "0:03:14",
+        "run3": "0:04:11",
+        "ski": "0:04:34",
+        "run4": "0:04:08",
+        "sled": "0:02:20",
+        "run5": "0:04:06",
+        "row": "0:05:45",
+        "run6": "0:03:58",
+        "farmer": "0:02:37",
+        "run7": "0:03:50",
+        "wallball": "0:03:41",
+        "finish": "0:51:48"
+      }
+    },
+    {
+      "team_name": "Alergicari",
+      "bib": "BIB 69",
+      "temem": {
+        "member_one": "Sara Vukelic",
+        "member_two": "Juraj Maldini"
+      },
+      "results": {
+        "run1": "0:03:04",
+        "lunges": "0:02:25",
+        "run2": "0:03:10",
+        "bbj": "0:03:24",
+        "run3": "0:04:42",
+        "ski": "0:05:10",
+        "run4": "0:03:57",
+        "sled": "0:02:02",
+        "run5": "0:04:18",
+        "row": "0:06:12",
+        "run6": "0:04:26",
+        "farmer": "0:02:25",
+        "run7": "0:03:46",
+        "wallball": "0:03:41",
+        "finish": "0:52:38"
+      }
+    },
+    {
+      "team_name": "Los Balkañeros",
+      "bib": "BIB 122",
+      "temem": {
+        "member_one": "Leo Bišcan",
+        "member_two": "Sara Pevidal"
+      },
+      "results": {
+        "run1": "0:03:06",
+        "lunges": "0:02:33",
+        "run2": "0:03:02",
+        "bbj": "0:03:12",
+        "run3": "0:03:25",
+        "ski": "0:04:56",
+        "run4": "0:04:09",
+        "sled": "0:02:33",
+        "run5": "0:04:38",
+        "row": "0:06:25",
+        "run6": "0:04:03",
+        "farmer": "0:03:02",
+        "run7": "0:03:48",
+        "wallball": "0:04:14",
+        "finish": "0:52:57"
+      }
+    },
+    {
+      "team_name": "Dambo",
+      "bib": "BIB 84",
+      "temem": {
+        "member_one": "Maja Bizic Odak",
+        "member_two": "Dominik Antunovic"
+      },
+      "results": {
+        "run1": "0:02:53",
+        "lunges": "0:03:05",
+        "run2": "0:02:56",
+        "bbj": "0:04:31",
+        "run3": "0:03:37",
+        "ski": "0:05:34",
+        "run4": "0:04:04",
+        "sled": "0:03:05",
+        "run5": "0:04:14",
+        "row": "0:05:50",
+        "run6": "0:03:36",
+        "farmer": "0:03:00",
+        "run7": "0:03:22",
+        "wallball": "0:04:15",
+        "finish": "0:53:54"
+      }
+    },
+    {
+      "team_name": "Brufenceki",
+      "bib": "BIB 78",
+      "temem": {
+        "member_one": "Petra Crnjevic Trstenjak",
+        "member_two": "Ivan Trstenjak"
+      },
+      "results": {
+        "run1": "0:03:04",
+        "lunges": "0:02:54",
+        "run2": "0:03:36",
+        "bbj": "0:04:48",
+        "run3": "0:03:51",
+        "ski": "0:04:49",
+        "run4": "0:04:02",
+        "sled": "0:02:04",
+        "run5": "0:04:30",
+        "row": "0:06:03",
+        "run6": "0:04:25",
+        "farmer": "0:02:48",
+        "run7": "0:04:07",
+        "wallball": "0:04:06",
+        "finish": "0:55:01"
+      }
+    },
+    {
+      "team_name": "M&R",
+      "bib": "BIB 134",
+      "temem": {
+        "member_one": "Martina Meglic",
+        "member_two": "Roman Meglic"
+      },
+      "results": {
+        "run1": "0:03:27",
+        "lunges": "0:03:21",
+        "run2": "0:03:51",
+        "bbj": "0:02:25",
+        "run3": "0:04:07",
+        "ski": "0:05:11",
+        "run4": "0:04:20",
+        "sled": "0:02:36",
+        "run5": "0:04:31",
+        "row": "0:06:37",
+        "run6": "0:04:10",
+        "farmer": "0:02:38",
+        "run7": "0:04:03",
+        "wallball": "0:03:59",
+        "finish": "0:55:11"
+      }
+    },
+    {
+      "team_name": "TopGun",
+      "bib": "BIB 173",
+      "temem": {
+        "member_one": "Marin Pavlovic",
+        "member_two": "Ivana Bašic"
+      },
+      "results": {
+        "run1": "0:03:16",
+        "lunges": "0:03:01",
+        "run2": "0:03:24",
+        "bbj": "0:04:09",
+        "run3": "0:04:06",
+        "ski": "0:05:12",
+        "run4": "0:04:13",
+        "sled": "0:02:29",
+        "run5": "0:04:24",
+        "row": "0:06:04",
+        "run6": "0:04:25",
+        "farmer": "0:03:12",
+        "run7": "0:04:06",
+        "wallball": "0:04:09",
+        "finish": "0:56:03"
+      }
+    },
+    {
+      "team_name": "5.11 office",
+      "bib": "BIB 64",
+      "temem": {
+        "member_one": "James Alexandar",
+        "member_two": "Sabina  B"
+      },
+      "results": {
+        "run1": "0:03:18",
+        "lunges": "0:02:49",
+        "run2": "0:04:20",
+        "bbj": "0:03:39",
+        "run3": "0:04:57",
+        "ski": "0:05:15",
+        "run4": "0:04:23",
+        "sled": "0:02:01",
+        "run5": "0:04:33",
+        "row": "0:05:34",
+        "run6": "0:04:21",
+        "farmer": "0:02:41",
+        "run7": "0:04:15",
+        "wallball": "0:04:34",
+        "finish": "0:56:33"
+      }
+    },
+    {
+      "team_name": "222",
+      "bib": "BIB 62",
+      "temem": {
+        "member_one": "Antonio Novacic",
+        "member_two": "Hana Goric"
+      },
+      "results": {
+        "run1": "0:03:29",
+        "lunges": "0:02:50",
+        "run2": "0:03:50",
+        "bbj": "0:03:16",
+        "run3": "0:05:02",
+        "ski": "0:04:46",
+        "run4": "0:04:27",
+        "sled": "0:02:20",
+        "run5": "0:04:52",
+        "row": "0:06:30",
+        "run6": "0:04:31",
+        "farmer": "0:02:38",
+        "run7": "0:04:48",
+        "wallball": "0:04:14",
+        "finish": "0:57:24"
+      }
+    },
+    {
+      "team_name": "Old Timer Kliš",
+      "bib": "BIB 138",
+      "temem": {
+        "member_one": "Tihana Klišanic",
+        "member_two": "Klaudio Klišanic"
+      },
+      "results": {
+        "run1": "0:03:26",
+        "lunges": "0:03:24",
+        "run2": "0:03:23",
+        "bbj": "0:04:51",
+        "run3": "0:04:04",
+        "ski": "0:05:02",
+        "run4": "0:04:13",
+        "sled": "0:03:16",
+        "run5": "0:04:20",
+        "row": "0:06:01",
+        "run6": "0:04:11",
+        "farmer": "0:02:39",
+        "run7": "0:04:29",
+        "wallball": "0:04:41",
+        "finish": "0:57:54"
+      }
+    },
+    {
+      "team_name": "Luce i Pero",
+      "bib": "BIB 123",
+      "temem": {
+        "member_one": "Petar Barišic",
+        "member_two": "Lucija Luketic"
+      },
+      "results": {
+        "run1": "0:03:19",
+        "lunges": "0:02:59",
+        "run2": "0:03:23",
+        "bbj": "0:02:59",
+        "run3": "0:04:04",
+        "ski": "0:05:47",
+        "run4": "0:05:05",
+        "sled": "0:02:55",
+        "run5": "0:05:24",
+        "row": "0:07:24",
+        "run6": "0:04:18",
+        "farmer": "0:03:09",
+        "run7": "0:03:54",
+        "wallball": "0:04:30",
+        "finish": "0:59:02"
+      }
+    },
+    {
+      "team_name": "PS",
+      "bib": "BIB 145",
+      "temem": {
+        "member_one": "Petar Jantolek",
+        "member_two": "Stella Mlinac"
+      },
+      "results": {
+        "run1": "0:03:21",
+        "lunges": "0:03:00",
+        "run2": "0:04:31",
+        "bbj": "0:04:59",
+        "run3": "0:04:54",
+        "ski": "0:06:19",
+        "run4": "0:06:00",
+        "sled": "0:02:50",
+        "run5": "0:05:41",
+        "row": "0:07:15",
+        "run6": "0:04:59",
+        "farmer": "0:03:20",
+        "run7": "0:04:22",
+        "wallball": "0:04:37",
+        "finish": "1:06:01"
+      }
+    }
+  ]
+}
